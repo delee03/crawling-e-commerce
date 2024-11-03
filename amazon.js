@@ -153,8 +153,8 @@ const fetchProductsForCategory = async (
 
 // Define categories with their respective search URLs
 const categories = {
-    Men_TShirtAndShoes:
-        "https://www.amazon.com/s?k=men+clothing&i=fashion&rh=n%3A7141123011&dc&page=10&crid=ZH0E0QU9PLBW&qid=1730477771&sprefix=men+clothi%2Cfashion-mens-shoes%2C811&ref=sr_pg_10",
+    Women_Watches_5:
+        "https://www.amazon.com/s?k=women+watch&page=5&crid=2L1DYGTLWE2KJ&qid=1730657232&sprefix=womenwatch%2Caps%2C507&ref=sr_pg_5",
 };
 
 // Main function to fetch products for multiple categories

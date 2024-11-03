@@ -1,0 +1,632 @@
+[
+  {
+    "id": "B09PNM8FFN",
+    "name": " Things We Never Got Over (Knockemout Book 1) ",
+    "ratings": 206.464,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41qiZpKBDvL.jpg",
+    "description": ""
+  },
+  {
+    "id": "B0D8V1V2Z4",
+    "name": " The Precipice: Thriller (A Miha Reznyk Novel Book 1) ",
+    "ratings": 109,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41LSzP97pdL.jpg",
+    "description": ""
+  },
+  {
+    "id": "B08RS5JH69",
+    "name": " The Arrangement (Arrangement Novels Book 1) ",
+    "ratings": 20.528,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41V2qoSSrtL.jpg",
+    "description": ""
+  },
+  {
+    "id": "B012OE3MV8",
+    "name": " Beautiful Country: A Novel ",
+    "ratings": 335,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51zv57ASxVL.jpg",
+    "description": ""
+  },
+  {
+    "id": "B0C4QD5VPB",
+    "name": " The Women: A Novel ",
+    "ratings": 196.916,
+    "price": 24.74,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51ujOH49gJL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0B9RNFT4S",
+    "name": " The Echo of Old Books: A Novel ",
+    "ratings": 60.762,
+    "price": 4.99,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51aUZtbVGdL.jpg",
+    "description": "This is determined using the 90-day median price paid by customers for the product on Amazon. We exclude prices paid by customers for the product during a limited time deal.Learn more"
+  },
+  {
+    "id": "1923232029",
+    "name": " Mr. Garcia (Mr. Series) ",
+    "ratings": 27.2,
+    "price": 18.99,
+    "discount": 20,
+    "discount_price": 15.19,
+    "image": "https://m.media-amazon.com/images/I/31VO2PqcNAL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1923232002",
+    "name": " Mr. Masters (Mr. Series) ",
+    "ratings": 38.566,
+    "price": 18.99,
+    "discount": 20,
+    "discount_price": 15.19,
+    "image": "https://m.media-amazon.com/images/I/31oKVKQhcKL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0975663801",
+    "name": " The Bonus ",
+    "ratings": 20.681,
+    "price": 18.99,
+    "discount": 20,
+    "discount_price": 15.19,
+    "image": "https://m.media-amazon.com/images/I/41OsVnbSChL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1501154656",
+    "name": " Then She Was Gone: A Novel ",
+    "ratings": 114.432,
+    "price": 16,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51TgUSSJBJL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0B7R4Q5DJ",
+    "name": " Hello Beautiful (Oprah's Book Club): A Novel ",
+    "ratings": 90.004,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51dI6jcyZbL.jpg",
+    "description": ""
+  },
+  {
+    "id": "B071Z8Z5C7",
+    "name": " The Seven Husbands of Evelyn Hugo: A Novel ",
+    "ratings": 241.279,
+    "price": 20.24,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51kVpauOUAL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B00NY8OTR0",
+    "name": " The Nightingale ",
+    "ratings": 328.43,
+    "price": 24.74,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51lJVAGTuNL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0CRZF2LKJ",
+    "name": " Counting Miracles: A Novel ",
+    "ratings": 6.635,
+    "price": 22.5,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51n5Hfhg7QL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B01GGU0XWC",
+    "name": " It Ends with Us ",
+    "ratings": 373.178,
+    "price": 20.24,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41rsaQI5kiL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "165296116X",
+    "name": " Who's Charlie? ",
+    "ratings": 9,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": 4.99,
+    "image": "https://m.media-amazon.com/images/I/51piTk4ugAL.jpg",
+    "description": ""
+  },
+  {
+    "id": "0593644964",
+    "name": " Magic Tree House Graphic Novel Starter Set: (A Graphic Novel Boxed Set) ",
+    "ratings": 477,
+    "price": 39.96,
+    "discount": 41,
+    "discount_price": 23.49,
+    "image": "https://m.media-amazon.com/images/I/51%2BWug6ZrnL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "9387779688",
+    "name": " The Complete Novels of Sherlock Holmes (Deluxe Hardbound) ",
+    "ratings": 1.876,
+    "price": 24.99,
+    "discount": 10,
+    "discount_price": 22.49,
+    "image": "https://m.media-amazon.com/images/I/51bUbbXOTLS.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1982137452",
+    "name": " In Five Years: A Novel ",
+    "ratings": 67.279,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41DZJJh4NlL.jpg",
+    "description": ""
+  },
+  {
+    "id": "0008609217",
+    "name": " The Lost Bookshop: The most charming and uplifting novel for 2024 and the perfect gift for book lovers! ",
+    "ratings": 106.205,
+    "price": 18.99,
+    "discount": null,
+    "discount_price": 12.24,
+    "image": "https://m.media-amazon.com/images/I/5101c2U6F8L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B072Q8WX9K",
+    "name": " How to Stop Time: A Novel ",
+    "ratings": 32.314,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41ufgP8LbgL.jpg",
+    "description": ""
+  },
+  {
+    "id": "0999052845",
+    "name": " Seek and Destroy (A Brady Hawk Novel) ",
+    "ratings": 1.537,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": 12.59,
+    "image": "https://m.media-amazon.com/images/I/51hV1nosAwL.jpg",
+    "description": ""
+  },
+  {
+    "id": "1955804087",
+    "name": " The Academy (The Academy Series) ",
+    "ratings": 1.174,
+    "price": 12.99,
+    "discount": 8,
+    "discount_price": 11.99,
+    "image": "https://m.media-amazon.com/images/I/41d7ctCFSOL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0241347688",
+    "name": " Crime and Punishment (Penguin Clothbound Classics) ",
+    "ratings": 3.682,
+    "price": 30,
+    "discount": 41,
+    "discount_price": 17.79,
+    "image": "https://m.media-amazon.com/images/I/51o1%2BrQ8EVL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0593297016",
+    "name": " The Love of My Life: A GMA Book Club Pick (A Novel) ",
+    "ratings": 25.022,
+    "price": 18,
+    "discount": 38,
+    "discount_price": 11.16,
+    "image": "https://m.media-amazon.com/images/I/51bXoNt%2B70L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0593496493",
+    "name": " All Good People Here: A Novel ",
+    "ratings": 27.718,
+    "price": 18,
+    "discount": 46,
+    "discount_price": 9.73,
+    "image": "https://m.media-amazon.com/images/I/41Q%2BsG2kilL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1501171356",
+    "name": " The Last Thing He Told Me: A Novel ",
+    "ratings": 157.101,
+    "price": 17.99,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51u1pBW03nL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0593493435",
+    "name": " The Hunter: A Novel ",
+    "ratings": 15.164,
+    "price": 32,
+    "discount": 53,
+    "discount_price": 14.98,
+    "image": "https://m.media-amazon.com/images/I/41tewrizVRL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0399563091",
+    "name": " We Were the Lucky Ones: A Novel ",
+    "ratings": 42.729,
+    "price": 18,
+    "discount": 47,
+    "discount_price": 9.56,
+    "image": "https://m.media-amazon.com/images/I/41ZS5OpOwuL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0593449576",
+    "name": " Dreamland: A Novel ",
+    "ratings": 30.681,
+    "price": 18,
+    "discount": 54,
+    "discount_price": 8.23,
+    "image": "https://m.media-amazon.com/images/I/41q30qdduRL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B09BBK79VB",
+    "name": " Lessons in Chemistry: A Novel ",
+    "ratings": 303.589,
+    "price": 20.25,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41F8JcJ4KuL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0CJ9TR6JN",
+    "name": " Sandwich: A Novel ",
+    "ratings": 12.398,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/513%2BzxOUx9L.jpg",
+    "description": ""
+  },
+  {
+    "id": "B09KD6TCSP",
+    "name": " Tomorrow, and Tomorrow, and Tomorrow: A Novel ",
+    "ratings": 108.975,
+    "price": 20.25,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/615ZWwoPBRL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B000FC1KKC",
+    "name": " Summer Island: A Novel ",
+    "ratings": 31.515,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51Ytr%2BhxvUS.jpg",
+    "description": ""
+  },
+  {
+    "id": "1496744977",
+    "name": " Those Empty Eyes: A Chilling Novel of Suspense with a Shocking Twist ",
+    "ratings": 17.322,
+    "price": 17.95,
+    "discount": 45,
+    "discount_price": 9.8,
+    "image": "https://m.media-amazon.com/images/I/51ROvBuDC3L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0525559493",
+    "name": " The Midnight Library: A GMA Book Club Pick (A Novel) ",
+    "ratings": 258.574,
+    "price": 18,
+    "discount": 25,
+    "discount_price": 13.48,
+    "image": "https://m.media-amazon.com/images/I/51h5i-Wch7L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0062060627",
+    "name": " Song of Achilles, The ",
+    "ratings": 103.477,
+    "price": 17.99,
+    "discount": 30,
+    "discount_price": 12.68,
+    "image": "https://m.media-amazon.com/images/I/514aE49swxL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1496726537",
+    "name": " The Nurse's Secret: A Thrilling Historical Novel of the Dark Side of Gilded Age New York City ",
+    "ratings": 17.661,
+    "price": 16.95,
+    "discount": 43,
+    "discount_price": 9.69,
+    "image": "https://m.media-amazon.com/images/I/51%2BMfMngRjL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1501173219",
+    "name": " All the Light We Cannot See: A Novel ",
+    "ratings": 229.149,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51uOK5inzuL.jpg",
+    "description": ""
+  },
+  {
+    "id": "1476791457",
+    "name": " Confess: A Novel ",
+    "ratings": 48.988,
+    "price": 16.99,
+    "discount": 45,
+    "discount_price": 9.39,
+    "image": "https://m.media-amazon.com/images/I/51oCQfBKSdL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0BN2J2Q8W",
+    "name": " Icebreaker: A Novel ",
+    "ratings": 93.58,
+    "price": 22.49,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51AhAKXXpxL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0176UW5U4",
+    "name": " November 9: A Novel ",
+    "ratings": 79.332,
+    "price": 19.49,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51ohVcmZMpL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1339001233",
+    "name": " Escaping Peril: A Graphic Novel (Wings of Fire Graphic Novel #8) (Wings of Fire Graphix) ",
+    "ratings": null,
+    "price": 12.99,
+    "discount": 23,
+    "discount_price": 9.99,
+    "image": "https://m.media-amazon.com/images/I/51N3-hpq5dL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0BPTKTBB2",
+    "name": " The Heaven & Earth Grocery Store: A Novel ",
+    "ratings": 62.641,
+    "price": 22.5,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51rgs7X2%2BRL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0399562974",
+    "name": " Horse: A Novel ",
+    "ratings": 43.357,
+    "price": 19,
+    "discount": 39,
+    "discount_price": 11.64,
+    "image": "https://m.media-amazon.com/images/I/41nxPO-v8dL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "152474638X",
+    "name": " Fifty Words for Rain: A GMA Book Club Pick (A Novel) ",
+    "ratings": 12.84,
+    "price": 19,
+    "discount": 48,
+    "discount_price": 9.9,
+    "image": "https://m.media-amazon.com/images/I/41DLEIBuCtL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "142014636X",
+    "name": " The Girl Who Survived: A Riveting Novel of Suspense with a Shocking Twist ",
+    "ratings": 17.301,
+    "price": 9.99,
+    "discount": 25,
+    "discount_price": 7.49,
+    "image": "https://m.media-amazon.com/images/I/51De9vVOuRL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0525574689",
+    "name": " One Day in December: Reese's Book Club: A Novel ",
+    "ratings": 51.641,
+    "price": 17,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41VL8lsdXFL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0593420322",
+    "name": " Trust (Pulitzer Prize Winner) ",
+    "ratings": 32.022,
+    "price": 17,
+    "discount": 40,
+    "discount_price": 10.17,
+    "image": "https://m.media-amazon.com/images/I/41EYVxQ9e1L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1476753180",
+    "name": " Ugly Love: A Novel ",
+    "ratings": 154.512,
+    "price": 16.99,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41mBCtaJ1XL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0CR2Z9KKD",
+    "name": " In Too Deep: A Reacher Novel (Jack Reacher Book 29) ",
+    "ratings": 5.518,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41oXDdn3pkL.jpg",
+    "description": ""
+  },
+  {
+    "id": "B0BXK3SRBL",
+    "name": " The Frozen River: A Novel ",
+    "ratings": 33.258,
+    "price": 22.5,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/61RQ5%2BbMK3L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B09FYHXPBH",
+    "name": " The Maid: A Novel ",
+    "ratings": 95.903,
+    "price": 20.25,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/41bAvQ7iK5L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B06Y1MGNL9",
+    "name": " Before We Were Yours: A Novel ",
+    "ratings": 149.246,
+    "price": 22.5,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51qUEEH95YL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B09B2NNXMG",
+    "name": " Black Cake: A Novel ",
+    "ratings": 24.939,
+    "price": 20.25,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51TEE4GVOpL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B079586RDT",
+    "name": " The Outsider ",
+    "ratings": 61.655,
+    "price": 22.49,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/61QndL2LTEL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B09SBP5F76",
+    "name": " It Starts with Us: A Novel ",
+    "ratings": 198.161,
+    "price": 18.74,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51qfhya2iRL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B0D9PLJ5KZ",
+    "name": " The Widow's Husband's Secret Lie: A Satirical Novella ",
+    "ratings": 26.133,
+    "price": "N/A",
+    "discount": null,
+    "discount_price": 4.99,
+    "image": "https://m.media-amazon.com/images/I/41yR31dRR%2BL.jpg",
+    "description": ""
+  },
+  {
+    "id": "0593653440",
+    "name": " All the Broken Places: A Novel ",
+    "ratings": 23.541,
+    "price": 19,
+    "discount": 10,
+    "discount_price": 17.1,
+    "image": "https://m.media-amazon.com/images/I/419KF896SyL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "0525536965",
+    "name": " The Vanishing Half: A GMA Book Club Pick (A Novel) ",
+    "ratings": 124.373,
+    "price": 18,
+    "discount": 47,
+    "discount_price": 9.49,
+    "image": "https://m.media-amazon.com/images/I/41oUp9qMNDL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "B09DTGQHKJ",
+    "name": " Remarkably Bright Creatures: A Novel ",
+    "ratings": 81.799,
+    "price": 25.19,
+    "discount": null,
+    "discount_price": "N/A",
+    "image": "https://m.media-amazon.com/images/I/51kK9pBWtBL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1338730924",
+    "name": " Winter Turning: A Graphic Novel (Wings of Fire Graphic Novel #7) (Wings of Fire Graphix) ",
+    "ratings": 2.094,
+    "price": 12.99,
+    "discount": 35,
+    "discount_price": 8.48,
+    "image": "https://m.media-amazon.com/images/I/51RFyAxUMsL.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  },
+  {
+    "id": "1338120913",
+    "name": " I Survived The Sinking of the Titanic, 1912 (I Survived Graphix) ",
+    "ratings": 2.054,
+    "price": 10.99,
+    "discount": 30,
+    "discount_price": 7.71,
+    "image": "https://m.media-amazon.com/images/I/512cUpZxW7L.jpg",
+    "description": "The List Price is the suggested retail price of a new product as provided by a manufacturer, supplier, or seller. Except for books, Amazon will display a List Price if the product was purchased by customers on Amazon or offered by other retailers at or above the List Price in at least the past 90 days. List prices may not necessarily reflect the product's prevailing market price.Learn more"
+  }
+]
