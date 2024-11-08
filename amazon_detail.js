@@ -43,10 +43,9 @@ const getASINsFromSearchPage = async (searchUrl) => {
     }
 };
 
-// Function to get product details using ASIN
 const getProduct = async (productId) => {
     try {
-        let url = `https://www.amazon.com/gp/product/ajax/?asin=${productId}&m=&qid=&smid=&sourcecustomeerrorglistid=&sourcecustomeerrorglistitemid=&s=&r=pc&dP&experienceId=aodAjaxMain`;
+        let url = `https://www.amazon.com/dp/${productId}`;
 
         let { data } = await axios.get(url, {
             headers: {
@@ -57,43 +56,81 @@ const getProduct = async (productId) => {
         });
 
         const dom = new JSDOM(data);
+        const document = dom.window.document;
 
-        let name = dom.window.document.querySelector(
-            "#aod-asin-title #aod-asin-title-text"
-        );
-        let ratings = dom.window.document
-            .querySelector("#pinned-de-id #aod-asin-reviews-count-title")
+        // Basic product details
+        let name = document.querySelector("#productTitle")?.textContent.trim();
+        let ratings = document
+            .querySelector("#acrCustomerReviewText")
             ?.textContent.trim()
             .split(" ")[0];
-        let discount_percent = dom.window.document
-            .querySelector("#pinned-offer-top-id .a-section .aok-offscreen")
-            ?.textContent.trim()
-            .split(" ")[2];
-        let price = dom.window.document.querySelector(
-            ".a-section .aok-relative .a-size-small .a-price span"
+        let price = document.querySelector(
+            ".a-price .a-offscreen"
         )?.textContent;
-        let image = dom.window.document
-            .querySelector("#aod-pinned-offer #pinned-image-id img")
+        let image = document
+            .querySelector("#imgTagWrapperId img")
             ?.getAttribute("src");
-        let discount_price = dom.window.document
-            .querySelector("#pinned-offer-top-id .a-section .aok-offscreen")
-            ?.textContent.trim()
-            .split(" ")[0];
-        let description = dom.window.document
-            .querySelector(".a-size-small .a-popover-preload .a-size-base")
+
+        // New fields for detailed product information
+        let description = document
+            .querySelector("#feature-bullets ul")
+            ?.textContent.trim();
+
+        // Access detailed specifications using the appropriate classes
+        let brand = document
+            .querySelector(".po-brand .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let os = document
+            .querySelector(".po-operating_system .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let storage = document
+            .querySelector(
+                ".po-memory_storage_capacity .a-size-base.po-break-word"
+            )
+            ?.textContent.trim();
+        let screenSize = document
+            .querySelector(".po-display_size .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let resolution = document
+            .querySelector(".po-resolution .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let model = document
+            .querySelector(".po-model_name .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let carrier = document
+            .querySelector(".po-wireless_provider .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let cellularTech = document
+            .querySelector(".po-cellular_technology .a-size-base.po-break-word")
+            ?.textContent.trim();
+        let connectivity = document
+            .querySelector(
+                ".po-connectivity_technology .a-size-base.po-break-word"
+            )
+            ?.textContent.trim();
+        let color = document
+            .querySelector(".po-color .a-span9 .a-size-base.po-break-word")
             ?.textContent.trim();
 
         let object = {
             id: productId,
-            name: name?.textContent || "Unknown Product",
+            name: name || "Unknown Product",
             ratings: ratings ? +ratings.replace(",", ".") : null,
-            price: price ? Number(price.slice(1)) : "N/A",
-            discount: discount_percent ? Number(discount_percent) : null,
-            discount_price: discount_price
-                ? Number(discount_price.slice(1))
-                : "N/A",
+            price: price || "N/A",
             image: image || "N/A",
             description: description || "",
+            details: {
+                brand: brand || "N/A",
+                operatingSystem: os || "N/A",
+                memoryStorageCapacity: storage || "N/A",
+                screenSize: screenSize || "N/A",
+                resolution: resolution || "N/A",
+                modelName: model || "N/A",
+                wirelessCarrier: carrier || "N/A",
+                cellularTechnology: cellularTech || "N/A",
+                connectivity: connectivity || "N/A",
+                color: color || "N/A",
+            },
         };
 
         listProduct.push(object);
@@ -153,8 +190,8 @@ const fetchProductsForCategory = async (
 
 // Define categories with their respective search URLs
 const categories = {
-    IphoneList_1:
-        "https://www.amazon.com/Apple-iPhone-13-Pro-Silver/dp/B09LPPLKLT?crid=1FTSPKZ9LOPQL&dib=eyJ2IjoiMSJ9.uGRpoTHClCTQJeU8Rlu1L37qL5fROT_rzimk-nSUsEIZV09uOQdB_iLM5anzLbr7RdRXqt26NQzoY5jQCjSugLqxyeMMjubA_OlnlTa38DulXOBxEeHhJECkZYkO_eYDDUQ9NOMVCnO3grTpTNj5d_aaBWXGrvv82n6KY5kbaJp-vJBOzL2LxS5YNBI-tc-kvkWkBT7VMSAkk2SWPFIegojV6STlgg5rEjlV_VEVyzZi26SAjiTo1Ll8m5vMmHHahBRAG1KKDbGC0Od8AXmW_T9RRllN0L-ZTXng61fjQ_g.g_Za8gmspOB8nOAaZIPfYWFhMfqiDLpbhjOSGJl-yho&dib_tag=se&keywords=iphone&qid=1731030871&refinements=p_123%3A110955&rnid=85457740011&s=wireless&sprefix=ip%2Caps%2C636&sr=1-1&th=1",
+    SamsungList_32:
+        "https://www.amazon.com/s?k=samsung+mobile&page=20&crid=37HJU59D5XU1N&qid=1731038567&sprefix=samsung+mobi%2Caps%2C578&ref=sr_pg_20",
 };
 
 // Main function to fetch products for multiple categories

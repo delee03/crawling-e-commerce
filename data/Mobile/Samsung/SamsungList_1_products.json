@@ -1,0 +1,222 @@
+[
+  {
+    "id": "B00COB3RT4",
+    "name": "Samsung Galaxy S III, Purple 16GB (Sprint)",
+    "ratings": 89,
+    "price": "$269.99",
+    "image": "https://m.media-amazon.com/images/I/916m6fgT7CL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Display: 4.8-inches     Camera: 8-MP     Processor Speed: 1.5 GHz     OS: Android 4.0 (Ice Cream Sandwich)",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android",
+      "memoryStorageCapacity": "16 GB",
+      "screenSize": "N/A",
+      "resolution": "N/A",
+      "modelName": "S III",
+      "wirelessCarrier": "N/A",
+      "cellularTechnology": "4G",
+      "connectivity": "NFC",
+      "color": "Purple"
+    }
+  },
+  {
+    "id": "B07YX7PXF5",
+    "name": "Samsung A10e Verizon Black 32 GB (Renewed)",
+    "ratings": 374,
+    "price": "$269.99",
+    "image": "https://m.media-amazon.com/images/I/71HDPoezLfL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Screen 5.8 inches     Camera 8 MP     Battery 3,000 mAh     Expandable Memory microSD up to 512GB     Locked to Verizon - See Verizon Unlock Policy for Unlock Procedures",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "N/A",
+      "memoryStorageCapacity": "32 GB",
+      "screenSize": "N/A",
+      "resolution": "N/A",
+      "modelName": "N/A",
+      "wirelessCarrier": "Verizon",
+      "cellularTechnology": "4G",
+      "connectivity": "USB",
+      "color": "Verizon"
+    }
+  },
+  {
+    "id": "B00FJ8WBJG",
+    "name": "Samsung Galaxy Note 3, Black 32GB (Sprint)",
+    "ratings": 491,
+    "price": "$5.89",
+    "image": "https://m.media-amazon.com/images/I/91pJbD0rlNL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Display: 5.7-inches     Camera: 13-MP     Processor Speed: 2.3 GHz     OS: Android 4.3 (Jelly Bean)",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android",
+      "memoryStorageCapacity": "32 GB",
+      "screenSize": "N/A",
+      "resolution": "N/A",
+      "modelName": "Galaxy Note 3",
+      "wirelessCarrier": "N/A",
+      "cellularTechnology": "4G",
+      "connectivity": "Wi-Fi",
+      "color": "Black"
+    }
+  },
+  {
+    "id": "B06Y14T5YW",
+    "name": "SAMSUNG SM-G950 Galaxy S8 Unlocked 64GB - US Version (Midnight Black) - US Warranty",
+    "ratings": 2.929,
+    "price": "$340.50",
+    "image": "https://m.media-amazon.com/images/I/61sudHE5LnL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Infinity Display: a bezel less, full frontal, edge to edge screen. Default resolution is Full HD+ and can be changed to Quad HD+ (WQHD+) in Settings     Camera resolution Front: 8 MP AF, Rear: 12 MP OIS AF     Memory: Internal Memory 64 GB, RAM 4GB. Earjack : 3.5 millimeter Stereo     Battery, talk time is up to 30 hours, video play time is up to 17 hours     Dust and Water resistant Water resistant and dustproof based on IP68 Rating, which tests submersion up to 1.5 meter for up to 30 minutes. Not shockproof",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android 7.0",
+      "memoryStorageCapacity": "64 GB",
+      "screenSize": "N/A",
+      "resolution": "1440 x 2960",
+      "modelName": "Galaxy S8",
+      "wirelessCarrier": "Unlocked",
+      "cellularTechnology": "GSM, HSPA, LTE",
+      "connectivity": "N/A",
+      "color": "N/A"
+    }
+  },
+  {
+    "id": "B07SCJNSRT",
+    "name": "Samsung Galaxy A10 32GB A105G/DS LTE Unlocked GSM 6.2\" HD+ Smartphone - International Version, No Warranty (Blue)",
+    "ratings": 365,
+    "price": "$129.99",
+    "image": "https://m.media-amazon.com/images/I/615wcLMDicL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "3G UMTS 850/900/1900/2100 - LTE Cat4 (Bands 1, 2, 3, 5, 7, 8, 20, 28) TD-LTE (Bands 38, 40, 41) - Dual SIM Standby > (ensure to check compatibility with your carrier before purchase)     6.2 inches 720 x 1520 pixels, 19:9 ratio (~271 ppi density) Infinity-V Display, Capacitive Multitouch - Slim Design     32GB ROM + 2GB RAM - microSD, up to 512GB - Non-removable Li-Ion 3400 mAh battery - Samsung Exynos 7 Octa 7884 (14nm) - WiFi: 802.11 b/g/n (2.4Ghz)     Rear Camera: 13.0 MP - Front (Selfie) Camera: 5.0MP - Video: Full HD (1920x1080 pixels) 30 fps - EIS: Digital stabilization - Face detection, Smile detection     Unlocked cellphones are compatible with most of the GSM carriers ( Like T-Mobile or AT&T ) but please be aware that are not compatible with CDMA carriers ( Like Sprint or Verizon Wireless for example )",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android",
+      "memoryStorageCapacity": "32 GB",
+      "screenSize": "N/A",
+      "resolution": "720 x 1520",
+      "modelName": "Galaxy A10",
+      "wirelessCarrier": "T-Mobile",
+      "cellularTechnology": "N/A",
+      "connectivity": "N/A",
+      "color": "N/A"
+    }
+  },
+  {
+    "id": "B0851X3V62",
+    "name": "Samsung Galaxy A10e 32GB A102U GSM Unlocked Phone - Black",
+    "ratings": 183,
+    "price": "$9.99",
+    "image": "https://m.media-amazon.com/images/I/41aH8R5I0oL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "With a long lasting battery, the Galaxy A10e gives you more time to post, talk, text and share with friends and family     Keep more with 32GB of built in memory; Expand your memory up to 512GB with a Micro SD card     Enjoy an edge to edge view on a 5. 83\" Infinity display.     Capture crisp, clear photos with an 8MP rear Camera and a 5MP front Camera     The phone you order will be carrier branded by one of the following carriers: ATT, T-Mobile, Tracfone, Cricket, or MetroPCS. They are fully unlock and will work with most GSM Carriers in the United States. The phone WILL NOT WORK WITH CDMA CARRIERS SUCH AS VERIZON, SPRINT, & BOOST. IF YOU ARE UNSURE IF YOUR CARRIER IS COMPATIBLE, PLEASE CONTACT THE SELLER DIRECTLY.",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "N/A",
+      "memoryStorageCapacity": "32 GB",
+      "screenSize": "N/A",
+      "resolution": "N/A",
+      "modelName": "Galaxy A10e",
+      "wirelessCarrier": "Unlocked",
+      "cellularTechnology": "GSM, UMTS, LTE",
+      "connectivity": "Wi-Fi",
+      "color": "Black"
+    }
+  },
+  {
+    "id": "B06XH4X7SZ",
+    "name": "Samsung Qi Certified Fast Charge Wireless Charging Convertible Stand/Pad - US Version - Black - EP-PG950TBEGUS",
+    "ratings": 2.925,
+    "price": " ",
+    "image": "https://m.media-amazon.com/images/I/71yfh+SywBL._AC_SX300_SY300_.jpg",
+    "description": "NOTE : Product has to be used with a Genuine Samsung Wall Charger     Easily convert your wireless charger from a pad to a stand     Use as a stand to read notifications or take calls without interrupting charging     Up to 9 watt wireless Fast Charge on select smartphones for 1.4x faster charging speeds     Multiple charging coils for easy landscape or portrait device orientation and Built in fan to cool your phone during fast charging;The builtin LED indicator light will alert you if the device is not properly aligned and when a good charge alignment is acquired     Supports wireless charging on Qi compatible smartphones including the Samsung Galaxy S8, Samsung Galaxy Note8, Apple iPhone 8, Apple iPhone 8 Plus, and Apple iPhone X",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "N/A",
+      "memoryStorageCapacity": "N/A",
+      "screenSize": "N/A",
+      "resolution": "N/A",
+      "modelName": "N/A",
+      "wirelessCarrier": "N/A",
+      "cellularTechnology": "N/A",
+      "connectivity": "Wireless",
+      "color": "Black"
+    }
+  },
+  {
+    "id": "B09V5LDZQ4",
+    "name": "Samsung Galaxy S22 Smartphone, Factory Unlocked Android Cell Phone, 128GB, 8K Camera & Video, Brightest Display, Long Battery Life, Fast 4nm Processor, US Version, Phantom Black (Renewed)",
+    "ratings": 2.182,
+    "price": "$229.99",
+    "image": "https://m.media-amazon.com/images/I/61M4ndNetDL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Android 12 | One UI 4.1.1 | Octa-core | 8GB | 128GB | Adreno 730     Dynamic AMOLED 2X, 120Hz, HDR10+ display | Corning Gorilla Glass | 6.1inches | 1080 x 2340     Wi-Fi 802.11 a/b/g/n/ac/6e dual-band | GPS | Wi-Fi Direct, hotspot | Bluetooth 5.2 | USB Type-C 3.2     50 MP Camera | LED Flash | 1080p | Speaker     5.75x 2.78 x 0.30 | 5.89oz | Single SIM | GSM, HSPA, LTE, CDMA",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android",
+      "memoryStorageCapacity": "128 GB",
+      "screenSize": "N/A",
+      "resolution": "1080 x 2340",
+      "modelName": "Galaxy S22",
+      "wirelessCarrier": "Unlocked for All Carriers",
+      "cellularTechnology": "N/A",
+      "connectivity": "N/A",
+      "color": "N/A"
+    }
+  },
+  {
+    "id": "B0CWLVHDYC",
+    "name": "SAMSUNG Galaxy A15 5G Dual SIM (256GB, 2024) 6.5\" 90Hz AMOLED, 50MP Camera (Fully Unlocked International Model for AT&T, T-Mobile, Verizon, Global 4G) A156M/DSN (w/25W Super Fast Charger, Yellow)",
+    "ratings": 589,
+    "price": "$195.00",
+    "image": "https://m.media-amazon.com/images/I/51tgsXtoUkL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Charger Sold Separately, 6.5 Super AMOLED, 1080x2340 (FHD+), 90Hz Refresh Rate, Android 14, One UI 6, Bluetooth 5.3     256GB, 8GB RAM, Expandable microSDXC (uses shared SIM slot), Mediatek Dimensity 6100+ (6 nm), Octa-core, Mali-G57 MC2 GPU, Fingerprint (side-mounted)     Rear Camera: 50MP, f/1.8 + 5MP, f/2.2 + 2MP, f/2.4, Front Camera: 13MP, f/2.0, 5000mAh Battery     2G: 850/900/1800/1900, 3G: 850/900/1700/1900/2100, 4G: 4G: LTE B1(2100)/2(1900)/3(1800)/4(AWS)/5(850)/7(2600)/8(900)/12(700)/17(700)/20(800)/26(850)/28(700)/38(2600)/40(2300)/41(2500)/66(AWS-3), 5G: N1(2100)/3(1800)/5(850)/7(2600)/8(900)/26(850)/28(700)/40(2300)/41(2500)/66(AWS-3)/77(3700)/78(3500) - Dual SIM     International Model - No Warranty in the US. Compatible with Most GSM Carriers like T-Mobile, AT&T, MetroPCS, etc. Will Also work with CDMA Carriers Such as Verizon, Sprint.     Width: 4.00 inches; Length: 6.00 inches; Height: 2.00 inches",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android 14",
+      "memoryStorageCapacity": "256 GB",
+      "screenSize": "N/A",
+      "resolution": "1080 x 2340",
+      "modelName": "Galaxy A15",
+      "wirelessCarrier": "3",
+      "cellularTechnology": "N/A",
+      "connectivity": "N/A",
+      "color": "N/A"
+    }
+  },
+  {
+    "id": "B0CN1Q2X3B",
+    "name": "SAMSUNG Galaxy A25 5G A Series Cell Phone, 128GB Unlocked Android Smartphone, AMOLED Display, Advanced Triple Camera System, Expandable Storage, Stereo Speakers, US Version, 2024, Black",
+    "ratings": 297,
+    "price": "$249.99",
+    "image": "https://m.media-amazon.com/images/I/61cwMOVn17L.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "description": "YOUR CONTENT, SUPERSMOOTH: Whether watching shows, playing games or reading online, the ultra-clear, superfluid display¹ of Galaxy A25 5G brings your content to life; Plus, Vision Booster lets you to enjoy the bright 800-nits screen experience     CAPTURE AWE-WORTHY CONTENT: Mountain ranges, sunsets, dinners with friends — do the moment justice with the high-resolution cameras of Galaxy A25 5G; The triple-lens camera is ready for every angle, while a 50MP main camera catches all the details     STORE MORE & WORRY LESS: With improved internal storage of up to 128GB and up to 1TB² of expandable storage, Galaxy A25 5G makes it easy to keep cherished photos, videos and important files readily accessible whenever you need them     STEREO SPEAKERS: Experience sensational sound at your fingertips with Galaxy A25 5G; All new stereo speakers get you fully into the world of your favorite music, films and other content in a way like never before —no matter where you are     A DIGITAL WALLET IS ALREADY IN YOUR GALAXY: Carry your essentials conveniently in the digital wallet that’s made for your Galaxy phone and Watch³",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "Android 14, One UI",
+      "memoryStorageCapacity": "128 GB",
+      "screenSize": "N/A",
+      "resolution": "1080 x 1920",
+      "modelName": "Galaxy A25",
+      "wirelessCarrier": "Unlocked for All Carriers",
+      "cellularTechnology": "5G",
+      "connectivity": "USB Type C",
+      "color": "N/A"
+    }
+  },
+  {
+    "id": "B00UCZGS6S",
+    "name": "Samsung Qi Certified Wireless Charging Pad with 2A Wall Charger- Supports charging on Qi compatible smartphones including the Samsung Galaxy S8, S8+, Note 8, Apple iPhone 8, iPhone 8 Plus, and iPhone X (US Version) - Black Sapphire",
+    "ratings": 11.969,
+    "price": "$59.95",
+    "image": "https://m.media-amazon.com/images/I/619Bl+wiSzL._AC_SY300_SX300_.jpg",
+    "description": "Charge your compatible Galaxy smartphones, and other Qi compatible devices, without the need to plug your device in to a wall charger or USB port     Works with all Qi compatible smartphones including the Samsung Galaxy S8, Note 8, Apple iPhone 8, iPhone 8 Plus, iPhone X     You can still use your device while charging, and your device is always accessible so you can answer a call without having to unplug     Ready for use with Samsung Galaxy S6, Galaxy Note5 and later models of the Galaxy S and Galaxy Note Series; Older Galaxy Devices may require wireless charging cover for wireless charging     Multi colored LED halo indicates charging status; Output Voltage: 5V     Retail Package includes: Wireless Charging Pad",
+    "details": {
+      "brand": "SAMSUNG",
+      "operatingSystem": "N/A",
+      "memoryStorageCapacity": "N/A",
+      "screenSize": "N/A",
+      "resolution": "N/A",
+      "modelName": "N/A",
+      "wirelessCarrier": "N/A",
+      "cellularTechnology": "N/A",
+      "connectivity": "Usb,Wireless",
+      "color": "Black Sapphire"
+    }
+  }
+]

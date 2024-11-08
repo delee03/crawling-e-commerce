@@ -7,7 +7,7 @@
     "author": "Fuderr",
     "license": "MIT",
     "scripts": {
-        "dev": "node amazon.js"
+        "dev": "node amazon_detail.js"
     },
     "dependencies": {
         "axios": "^1.7.7",
