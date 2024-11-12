@@ -83,22 +83,54 @@ const getProduct = async (productId) => {
         let os = document
             .querySelector(".po-operating_system .a-size-base.po-break-word")
             ?.textContent.trim();
-        let storage = document
-            .querySelector(
-                ".po-memory_storage_capacity .a-size-base.po-break-word"
-            )
-            ?.textContent.trim();
-        let screenSize = document
-            .querySelector(".po-display_size .a-size-base.po-break-word")
-            ?.textContent.trim();
+
         let resolution = document
             .querySelector(".po-resolution .a-size-base.po-break-word")
             ?.textContent.trim();
         let model = document
             .querySelector(".po-model_name .a-size-base.po-break-word")
             ?.textContent.trim();
-        let carrier = document
-            .querySelector(".po-wireless_provider .a-size-base.po-break-word")
+        // RAM
+        let ram =
+            document
+                .querySelector(
+                    "[class*='ram_memory'] .a-size-base.po-break-word"
+                )
+                ?.textContent.trim() ||
+            document
+                .querySelector("[class*='RAM'] .a-size-base.po-break-word")
+                ?.textContent.trim() ||
+            "N/A";
+
+        // Hard Disk
+        let hard_disk =
+            document
+                .querySelector(
+                    "[class*='hard_disk'] .a-size-base.po-break-word"
+                )
+                ?.textContent.trim() ||
+            document
+                .querySelector(
+                    "[class*='Hard_Disk'] .a-size-base.po-break-word"
+                )
+                ?.textContent.trim() ||
+            "N/A";
+
+        // Screen Size
+        let screenSize =
+            document
+                .querySelector(
+                    "[class*='display_size'] .a-size-base.po-break-word"
+                )
+                ?.textContent.trim() ||
+            document
+                .querySelector(
+                    "[class*='Display_Size'] .a-size-base.po-break-word"
+                )
+                ?.textContent.trim() ||
+            "N/A";
+        let special_feature = document
+            .querySelector(".po-special_feature .a-span9 .a-truncate-cut")
             ?.textContent.trim();
         let cellularTech = document
             .querySelector(".po-cellular_technology .a-size-base.po-break-word")
@@ -111,6 +143,11 @@ const getProduct = async (productId) => {
         let color = document
             .querySelector(".po-color .a-span9 .a-size-base.po-break-word")
             ?.textContent.trim();
+        let detail_item = document
+            .querySelector(
+                "#feature-bullets ul.a-unordered-list li span.a-list-item"
+            )
+            ?.textContent.trim();
 
         let object = {
             id: productId,
@@ -122,14 +159,16 @@ const getProduct = async (productId) => {
             details: {
                 brand: brand || "N/A",
                 operatingSystem: os || "N/A",
-                memoryStorageCapacity: storage || "N/A",
+                hard_disk: hard_disk || "N/A",
                 screenSize: screenSize || "N/A",
                 resolution: resolution || "N/A",
                 modelName: model || "N/A",
-                wirelessCarrier: carrier || "N/A",
+                special_feature: special_feature || "N/A",
                 cellularTechnology: cellularTech || "N/A",
                 connectivity: connectivity || "N/A",
                 color: color || "N/A",
+                ram: ram || "N/A",
+                detail_item: detail_item || "N/A",
             },
         };
 
@@ -148,10 +187,15 @@ const saveProductListToFile = (category) => {
         `/data/${category}_products.json`
     );
 
+    const dataToSave = {
+        totalProducts: listProduct.length,
+        products: listProduct,
+    };
+
     try {
         fs.writeFileSync(
             filePath,
-            JSON.stringify(listProduct, null, 2),
+            JSON.stringify(dataToSave, null, 2),
             "utf-8"
         );
         console.log(`Product data saved to ${category}_products.json`);
@@ -190,8 +234,8 @@ const fetchProductsForCategory = async (
 
 // Define categories with their respective search URLs
 const categories = {
-    SamsungList_32:
-        "https://www.amazon.com/s?k=samsung+mobile&page=20&crid=37HJU59D5XU1N&qid=1731038567&sprefix=samsung+mobi%2Caps%2C578&ref=sr_pg_20",
+    Furniture_1:
+        "https://www.amazon.com/s?k=keyboard&crid=1SVAX8CBIFL9C&sprefix=keyb%2Caps%2C456&ref=nb_sb_noss_2",
 };
 
 // Main function to fetch products for multiple categories

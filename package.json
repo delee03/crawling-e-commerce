@@ -7,7 +7,7 @@
     "author": "Fuderr",
     "license": "MIT",
     "scripts": {
-        "dev": "node amazon_detail.js"
+        "dev": "node amazon_auto.js"
     },
     "dependencies": {
         "axios": "^1.7.7",
@@ -15,6 +15,7 @@
         "crypto": "^1.0.1",
         "jsdom": "^25.0.1",
         "node-fetch": "^3.3.2",
+        "puppeteer": "^23.7.1",
         "user-agents": "^1.1.325",
         "util": "^0.12.5"
     },
