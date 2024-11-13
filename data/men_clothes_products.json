@@ -1,101 +1,341 @@
 {
-  "totalProducts": 6,
+  "totalProducts": 48,
   "products": [
     {
-      "id": "B06Y45LQP3",
-      "name": "Hanes Men’s X-Temp Short Sleeve Polo Shirt, Midweight Men's Shirt",
-      "ratings": 27.158,
-      "price": "$11.99",
-      "image": "https://m.media-amazon.com/images/I/81RQmUsXNlL._AC_SX385_.jpg",
-      "description": "N/A",
-      "details": {
-        "brand": "N/A",
-        "color": "N/A",
-        "size": "N/A",
-        "material": "N/A",
-        "fitType": "N/A",
-        "careInstructions": "N/A"
-      }
+      "asin": "B01M2ZRGN4",
+      "title": "Under Armour Men's Sportstyle Tricot Joggers ",
+      "price": "$22.31",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/610S5iZsrRL._AC_UL320_.jpg"
     },
     {
-      "id": "B0D327DP96",
-      "name": "Carhartt Men's Rain Defender Loose Fit Heavyweight Quarter-Zip Sweatshirt",
-      "ratings": 21.44,
+      "asin": "B09315VY54",
+      "title": "Gildan Men's Crew T-Shirts, Multipack, Style G1100 ",
+      "price": "$19.97",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71p-Sidcu8S._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B074W1FNNZ",
+      "title": "Yeokou Men's Shawl Collar Cardigans Slim Fit Button Cable Knit Black Sweater Pockets ",
+      "price": "$38.99",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81cA3ubtXwL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B09ZD82V6S",
+      "title": "PURE CHAMP Mens 3 Pack Fleece Active Athletic Workout Jogger Sweatpants for Men with Zipper Pocket and Drawstring Size S-3XL ",
+      "price": "$39.99",
+      "rating": "4.2 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/91XUMIlN-fL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B071JYV6LN",
+      "title": "Hanes EcoSmart Fleece, Cotton-Blend Pullover, Crewneck Sweatshirt for Men (1 Or 2 Pack) ",
+      "price": "$11.65",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81D+bCgn8hL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B00JUM2V4W",
+      "title": "Hanes Men's Hoodie, EcoSmart Fleece Hoodie, Hooded Sweatshirt for Men ",
+      "price": "$13.48",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/61JckjKagSL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B086L69KCL",
+      "title": "Hanes Men's Boxer Briefs, Soft and Breathable Cotton Underwear with ComfortFlex Waistband, Multipack ",
+      "price": "$21.98",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81p0a0CNhZL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0BRKF45J7",
+      "title": "THWEI Mens Cargo Pants Casual Joggers Athletic Pants Cotton Loose Straight Sweatpants ",
+      "price": "$27.89",
+      "rating": "4.1 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51YBf4SPBmL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0CN2VVBV6",
+      "title": "6 Pack Men's Quick Dry Long Sleeve Shirts Moisture Wicking Sun Protection UV UPF SPF Performance T-Shirt for Casual ",
+      "price": "$38.98",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81K23fySrLL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B00JUM4CT4",
+      "title": "Hanes Men's Zip-Up Hoodie, EcoSmart Fleece Full-Zip Hoodie for Men, Hooded Sweatshirt ",
+      "price": "$14.19",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71QyRZzbaUL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B09H7DP2Z8",
+      "title": "G Gradual Men's Sweatpants with Zipper Pockets Tapered Joggers for Men Athletic Pants for Workout, Jogging, Running ",
+      "price": "$29.99",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71E9cr3vZAL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B002G9UD8C",
+      "title": "Carhartt Men's Loose Fit Midweight Logo Sleeve Graphic Sweatshirt ",
+      "price": "$54.99",
+      "rating": "4.8 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/719ZGDHmu-L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0C8NT7R47",
+      "title": "Comdecevis Men's Casual Cargo Pants Workout Joggers Stretch Sweatpants Hiking Drawstring Tactical Pants with Multi Pockets ",
+      "price": "$17.98",
+      "rating": "4.0 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/61BkAS5SZZL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0B728NH19",
+      "title": "5 Pack Men’s Active Quick Dry Crew Neck T Shirts | Athletic Running Gym Workout Short Sleeve Tee Tops Bulk ",
+      "price": "$33.95",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71nykOlQFxL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B018DQI4XM",
+      "title": "Thermajohn Long Johns Thermal Underwear for Men Fleece Lined Base Layer Set for Cold Weather ",
+      "price": "$31.99",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51qMowmobXL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B00FXPT4A4",
+      "title": "Carhartt Men's Rain Defender Loose Fit Heavyweight Quarter-Zip Sweatshirt ",
       "price": "$64.99",
-      "image": "https://m.media-amazon.com/images/I/81TyABX9EvL._AC_SX385_.jpg",
-      "description": "N/A",
-      "details": {
-        "brand": "N/A",
-        "color": "N/A",
-        "size": "N/A",
-        "material": "N/A",
-        "fitType": "N/A",
-        "careInstructions": "N/A"
-      }
+      "rating": "4.8 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81TyABX9EvL._AC_UL320_.jpg"
     },
     {
-      "id": "B07BZ8VRGD",
-      "name": "NIKE Sportswear Men's Pullover Club Hoodie",
-      "ratings": 4.223,
-      "price": "$53.28",
-      "image": "https://m.media-amazon.com/images/I/51qqwjhWVqL._AC_SX385_.jpg",
-      "description": "N/A",
-      "details": {
-        "brand": "N/A",
-        "color": "N/A",
-        "size": "N/A",
-        "material": "N/A",
-        "fitType": "N/A",
-        "careInstructions": "N/A"
-      }
+      "asin": "B01K0ETB6E",
+      "title": "Legendary Whitetails Men's Buck Camp Flannel, Long Sleeve Plaid Button Down Casual Shirt, Corduroy Cuffs ",
+      "price": "$34.99",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/91yuQ3m+cvL._AC_UL320_.jpg"
     },
     {
-      "id": "B0DGN3HGZY",
-      "name": "Amazon Essentials Men's Classic-Fit Wrinkle-Resistant Flat-Front Chino Pant (Available in Big & Tall)",
-      "ratings": 55.498,
+      "asin": "B0846L39RQ",
+      "title": "Nautica Men's Quarter-Zip Sweater ",
+      "price": "$23.98",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81eosniS1pL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B09XGYBLFV",
+      "title": "adidas Men's Sportswear Basic 3-stripes Tricot Track Suit ",
+      "price": "$53.45",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51KMqAz8xuL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0B1TK5BZZ",
+      "title": "TELALEO 4/5 Pack Mens Polo Shirts Quick Dry Short Sleeve Golf T Shirt Performance Moisture Wicking Casual Workout ",
+      "price": "$36.79",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71UIENuQxXL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B01L0KQTIK",
+      "title": "Wrangler Authentics Men's Long Sleeve Fleece Quarter-Zip Sweater ",
+      "price": "$25.72",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/A1X74ZCjO+L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B00H0P8QF4",
+      "title": "Hanes Men's Cotton, Moisture-Wicking Crew Tee Undershirts, Multi-Packs Available ",
+      "price": "$8.34",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51WTFQEedhL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B08YGQBJD9",
+      "title": "Fruit of the Loom Eversoft Fleece Elastic Bottom Sweatpants with Pockets, Relaxed Fit, Moisture Wicking, Breathable ",
+      "price": "$12.17",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/61Y8pQkviDL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0BV241H3F",
+      "title": "COOFANDY Men's Linen Shirts Short Sleeve Casual Shirts Button Down Shirt for Men Beach Summer Wedding Shirt ",
+      "price": "$29.99",
+      "rating": "4.3 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81+oQBvBR-L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B09R868D6F",
+      "title": "Fruit of the Loom Men's Eversoft Fleece Open Bottom Sweatpants with Pockets, Relaxed Fit, Moisture Wicking, Breathable ",
+      "price": "$12.19",
+      "rating": "4.3 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/61RhsrWDHEL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0D2PKQGQV",
+      "title": "Hanes Men's Pocket Undershirt Pack, Cotton Crew Neck T-Shirt, Moisture Wicking Tee, Assorted 6-Pack ",
+      "price": "$21.98",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71ISTYxoRgL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0CT3HL8KK",
+      "title": "3 Pack Mens Athletic Sweatpants with Zipper Pockets,Workout Gym Joggers Pants for Men Running Jogging Pants ",
+      "price": "$44.99",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71vmjNFoJGL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B07DJBDB82",
+      "title": "Champion Men's T-Shirt, Classic Graphic T-Shirt, Soft and Comfortable T-Shirts for Men, Script Logo (Reg. or Big & Tall) ",
+      "price": "$11.25",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51xz0O7su-L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0785VMVF4",
+      "title": "Under Armour Men's Tech 2.0 Short-Sleeve T-Shirt ",
+      "price": "$18.75",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/810Scj-0BxL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0D1H1GRW1",
+      "title": "AEROPOSTALE Men's Polo ",
+      "price": "$8.99",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81-wcvIbGVL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B07FN49S63",
+      "title": "Hanes ComfortSoft EcoSmart Men's Fleece Sweatpants ",
+      "price": "$11.00",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71n1CQQB-zL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B07HRGHKMM",
+      "title": "Nautica Men's Short Sleeve Solid Crew Neck T-Shirt ",
+      "price": "$7.78",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71h9RoRGoCL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B06XWMJH3K",
+      "title": "Amazon Essentials Men's Classic-Fit Wrinkle-Resistant Flat-Front Chino Pant (Available in Big & Tall) ",
       "price": "$3.99",
-      "image": "https://m.media-amazon.com/images/I/71De-IPZoeL._AC_SX385_.jpg",
-      "description": "N/A",
-      "details": {
-        "brand": "N/A",
-        "color": "N/A",
-        "size": "N/A",
-        "material": "N/A",
-        "fitType": "N/A",
-        "careInstructions": "N/A"
-      }
+      "rating": "4.2 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71De-IPZoeL._AC_UL320_.jpg"
     },
     {
-      "id": "B0BVKYB5D5",
-      "name": "Gildan Men's A-Shirt Tanks, Multipack, Style G1104",
-      "ratings": 123.098,
-      "price": "$14.59",
-      "image": "https://m.media-amazon.com/images/I/71kiGpoRLAL._AC_SX385_.jpg",
-      "description": "N/A",
-      "details": {
-        "brand": "N/A",
-        "color": "N/A",
-        "size": "N/A",
-        "material": "N/A",
-        "fitType": "N/A",
-        "careInstructions": "N/A"
-      }
+      "asin": "B07776V7KW",
+      "title": "Lucky Brand Men's Venice Burnout Notch Neck Tee ",
+      "price": "$15.53",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71Z4fIIWDtL._AC_UL320_.jpg"
     },
     {
-      "id": "B0BZDLXKTS",
-      "name": "Gildan Men's Crew T-Shirts, Multipack, Style G1100",
-      "ratings": 299.484,
-      "price": "$18.90",
-      "image": "https://m.media-amazon.com/images/I/71p-Sidcu8S._AC_SX385_.jpg",
-      "description": "N/A",
-      "details": {
-        "brand": "N/A",
-        "color": "N/A",
-        "size": "N/A",
-        "material": "N/A",
-        "fitType": "N/A",
-        "careInstructions": "N/A"
-      }
+      "asin": "B07JD592BB",
+      "title": "Gildan Men's A-Shirt Tanks, Multipack, Style G1104 ",
+      "price": "$17.91",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71kiGpoRLAL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B08NWMDV6V",
+      "title": "Under Armour Men's New Freedom Flag T-Shirt ",
+      "price": "$26.58",
+      "rating": "4.8 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71IoYWTZ3SL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B074KHZHWV",
+      "title": "Wrangler Authentics Men's Regular Fit Comfort Flex Waist Jean ",
+      "price": "$30.96",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/61MmC3VF+TL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B01GH5GSLG",
+      "title": "Under Armour Men's Tech Golf Polo ",
+      "price": "$25.99",
+      "rating": "4.7 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51upW4nee+L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0CRHF41F7",
+      "title": "5 Pack Athletic Gym Mens Shorts - Workout Black Quick Dry Basketball Shorts with Pockets for Running Casual Activewear ",
+      "price": "$31.89",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/716A1Qb6zXL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B0BQZ84MC5",
+      "title": "Brooks Brothers Men's Non-Iron Long Sleeve Button Down Sport Shirt ",
+      "price": "$37.98",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/51F-oNRmhSL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B08G1YSG7V",
+      "title": "Nike Club Men's Training Joggers ",
+      "price": "$52.70",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/41x80i3XfSS._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B073R21F5B",
+      "title": "Champion Men's Joggers, Lightweight Lounge Pants, Jersey Graphic Pants for Men, 31\" ",
+      "price": "$20.61",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/71C+tzBFq+L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B00ZHN8FEI",
+      "title": "Lucky Brand Men's 410 Athletic Fit Jean ",
+      "price": "$32.83",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81-3oyPxBUL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B07NWZ6PBF",
+      "title": "Real Essentials 4 Pack: Men's Dry-Fit UV Moisture Wicking UPF 50+ SPF Sun Protective Fishing Hiking Active Long Sleeve Shirt ",
+      "price": "$34.99",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81Wu7QPkeqL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B010277HJW",
+      "title": "Hanes Men's T-Shirts, Men's BeefyT Henley Shirts, Men's Cotton Long Sleeve Shirts ",
+      "price": "$13.00",
+      "rating": "4.5 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/61Mup1lPC8L._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B06WVHV3W9",
+      "title": "Hanes Men’s X-Temp Short Sleeve Polo Shirt, Midweight Men's Shirt ",
+      "price": "$12.80",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81RQmUsXNlL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B08VWYBKYH",
+      "title": "Zaitun Mens Hooded Sweatshirt Long Sleeve Solid Knitted Hoodie Pullover Sweater ",
+      "price": "$32.99",
+      "rating": "4.6 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/912avsuBEdL._AC_UL320_.jpg"
+    },
+    {
+      "asin": "B07HDLX9HZ",
+      "title": "Hanes Men's Ecosmart Jogger Sweatpants, Men's Midweight Fleece Lounge Pants, 30.5 ",
+      "price": "$17.00",
+      "rating": "4.4 out of 5 stars",
+      "image": "https://m.media-amazon.com/images/I/81FWZMalKhL._AC_UL320_.jpg"
     }
   ]
 }
