@@ -1,0 +1,852 @@
+{
+  "totalProducts": 121,
+  "products": [
+    {
+      "id": "B0863JB424",
+      "name": "CHEF iQ Smart Pressure Cooker 10 Cooking Functions & 18 Features, Built-in Scale, 1000+ Presets & Times & Temps w/App for 600+ Foolproof Guided Recipes, Rice & Slow Electric MultiCooker, 6 Qt",
+      "ratings": 2.365,
+      "price": "$169.94",
+      "image": "https://m.media-amazon.com/images/I/71qaNsaMkpL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DJQBGTPY",
+      "name": "Electric Pressure Cooker Uni 6qt, 9-in-1 Multi-Functional Slow Cooker, Rice Cooker, Yogurt Maker, Cake Maker, Sauté Pan, Steamer, Food Warmer, Soup Maker",
+      "ratings": 4,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/71po5a79PGL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B06Y1YD5W7",
+      "name": "Instant Pot Duo 7-in-1 Mini Electric Pressure Cooker, Slow Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes Free App with over 1900 Recipes, Stainless Steel, 3 Quart",
+      "ratings": 25.082,
+      "price": "$79.95",
+      "image": "https://m.media-amazon.com/images/I/71LmN7FsaZL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00FLYWNYQ",
+      "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+      "ratings": 100.878,
+      "price": "$99.95",
+      "image": "https://m.media-amazon.com/images/I/71+xvMkS3hL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B003OAJGJO",
+      "name": "Crock-Pot 7 Quart Oval Manual Slow Cooker, Stainless Steel (SCV700-S-BR), Versatile Cookware for Large Families or Entertaining",
+      "ratings": 33.368,
+      "price": "$34.99",
+      "image": "https://m.media-amazon.com/images/I/81s15a8-lGL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B09JWH1QGL",
+      "name": "HexClad Hybrid Nonstick 1-Quart Saucepan with Tempered Glass Lid, Stay-Cool Handle, Dishwasher Safe, Induction Ready, Compatible with All Cooktops",
+      "ratings": 2.26,
+      "price": "$119.00",
+      "image": "https://m.media-amazon.com/images/I/71HiN67p7pL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08BKD1TWC",
+      "name": "Pantin Commercial Electric Rice Cooker – 25 Cups Raw / 50 Cups Cooked Capacity w/Measuring Cup & Scoop – High-Efficiency Large Rice Cooker Commercial Rice Cooker for Restaurants, Hotels and Catering",
+      "ratings": 144,
+      "price": "$138.00",
+      "image": "https://m.media-amazon.com/images/I/61xE-06-+UL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B09CD9H1XN",
+      "name": "Fissler Vitavit Premium Pressure Cooker with Steamer Insert, 6.3 Quart",
+      "ratings": 512,
+      "price": "$349.95",
+      "image": "https://m.media-amazon.com/images/I/51gB339ZoqL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B5B3QBV1",
+      "name": "CUCKOO CR-0675FG 6-Cup (Uncooked) / 12-Cup (Cooked) Micom Rice Cooker with Nonstick Inner Pot, 13 Menu Modes, LCD Display, Fuzzy Logic Tech, Auto Clean (Gray)",
+      "ratings": 2.971,
+      "price": "$74.99",
+      "image": "https://m.media-amazon.com/images/I/61Fgxx+vRPL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B0BBP8X8GG",
+      "name": "CUCKOO CRP-JHR0609F 6-Cup (Uncooked) / 12-Cup (Cooked) Induction Heating Pressure Rice Cooker with Nonstick Inner Pot, 16 Menu Options, Fuzzy Logic Tech, 3 Voice Guide, Auto Clean (Copper/Black)",
+      "ratings": 40,
+      "price": "$404.99",
+      "image": "https://m.media-amazon.com/images/I/71sC+ME+T6L._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B00SX03I80",
+      "name": "Hawkins CB30 Hard Anodised Pressure Cooker, 3-Liter, Contura Black",
+      "ratings": 34.91,
+      "price": "$41.90",
+      "image": "https://m.media-amazon.com/images/I/61xsscK90-L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CQR7MLPQ",
+      "name": "Sous Vide Machine, Sous Vide Cooker 1100W, Immersion Circulator Precisional Cooker with Touch Control, Accurate Temperature, Fast Heating, Time Control, Ultra-quiet, IPX7 Waterproof",
+      "ratings": 103,
+      "price": "$59.99",
+      "image": "https://m.media-amazon.com/images/I/81U+HZzWPIL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B00SX2YSMS",
+      "name": "HAWKINS Classic CL50 5-Liter New Improved Aluminum Pressure Cooker, Small, Silver",
+      "ratings": 2.375,
+      "price": "$39.90",
+      "image": "https://m.media-amazon.com/images/I/519aOqUZ0pL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B007WQ9YNO",
+      "name": "AROMA Digital Rice Cooker, 4-Cup (Uncooked) / 8-Cup (Cooked), Steamer, Grain Cooker, Multicooker, 2 Qt, Stainless Steel Exterior, ARC-914SBD",
+      "ratings": 60.774,
+      "price": "$29.98",
+      "image": "https://m.media-amazon.com/images/I/71-U1rX30iL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B01B1VC13K",
+      "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 8 Quart",
+      "ratings": 46.272,
+      "price": "$119.99",
+      "image": "https://m.media-amazon.com/images/I/71lONZDrnyL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B07DFVY29X",
+      "name": "Crock-Pot Large 8-Quart Programmable Slow Cooker with Auto Warm Setting, Black Stainless Steel (Pack of 1)",
+      "ratings": 16.099,
+      "price": "$68.99",
+      "image": "https://m.media-amazon.com/images/I/818vBNd81UL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DCVWYJ8G",
+      "name": "PYY Electric Pizza Oven with Visual Window - Countertop Indoor Pizza Ovens Pizza Cooker 1800W, Commercial Pizza Oven with Pizza Stone and Timer",
+      "ratings": 1,
+      "price": "$199.99",
+      "image": "https://m.media-amazon.com/images/I/41c-DEvNLlL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B4PPHG8G",
+      "name": "Ninja MC1001 Foodi PossibleCooker PRO 8.5 Quart Multi-Cooker, with 8-in-1 Slow Cooker, Dutch Oven, Steamer, Glass Lid Integrated Spoon, Nonstick, Oven Safe Pot to 500°F, Sea Salt Gray",
+      "ratings": 3.309,
+      "price": "$149.00",
+      "image": "https://m.media-amazon.com/images/I/61-hMn0AQsL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08PQ2KWHS",
+      "name": "Instant Pot Pro 10-in-1 Pressure Cooker, Slow Cooker, Rice/Grain Cooker, Steamer, Sauté, Sous Vide, Yogurt Maker, Sterilizer, and Warmer, Includes App With Over 800 Recipes, Black, 6 Quart",
+      "ratings": 12.237,
+      "price": "$119.99",
+      "image": "https://m.media-amazon.com/images/I/71hQYT5OvcL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B01NBKTPTS",
+      "name": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+      "ratings": 41.26,
+      "price": "$129.95",
+      "image": "https://m.media-amazon.com/images/I/61DJCWU5ksL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00N9N6GOY",
+      "name": "Aroma Housewares Aroma 6-cup (cooked) 1.5 Qt. One Touch Rice Cooker, White (ARC-363NG), 6 cup cooked/ 3 cup uncook/ 1.5 Qt.",
+      "ratings": 18.786,
+      "price": "$19.99",
+      "image": "https://m.media-amazon.com/images/I/61m6eAej0ML.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B09ZHW6FKV",
+      "name": "Drizzle Electric Hot Pot Cooker Steamer 1.8L Multifunctional Nonstick Pan Dormitory Office Portable Ramen Cooker Steamer Boil Dry Protection Suitable For Noodles Steak Cooker Eggs StirFrying",
+      "ratings": 251,
+      "price": "$31.98",
+      "image": "https://m.media-amazon.com/images/I/71oafSJqSRL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00NRTIP30",
+      "name": "Hawkins HC20 Contura 2-Liter Pressure Cooker, Small, Aluminum",
+      "ratings": 20.074,
+      "price": "$31.90",
+      "image": "https://m.media-amazon.com/images/I/51ISzpOjU9L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B097F4QKVY",
+      "name": "Crock-Pot 7-Quart Slow Cooker, Portable Programmable with Timer, Locking Lid, Stainless Steel; an Essential Kitchen Appliance, Perfect for Families and Gatherings",
+      "ratings": 3.069,
+      "price": "$86.63",
+      "image": "https://m.media-amazon.com/images/I/61T3OnQfLQL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B07DKXNW2M",
+      "name": "Hamilton Beach Slow Cooker, Extra Large 10 Quart, Stay or Go Portable With Lid Lock, Dishwasher Safe Crock, Black (33195)",
+      "ratings": 17.678,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/81OjHZRfpSL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B4PQDFCL",
+      "name": "Instant Pot RIO, 7-in-1 Electric Multi-Cooker, Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, & Warmer, Includes App With Over 800 Recipes, 6 Quart",
+      "ratings": 1.822,
+      "price": "$89.95",
+      "image": "https://m.media-amazon.com/images/I/61WZ8UkkReL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C8J2737F",
+      "name": "Rapid Egg Cooker Electric 6 Eggs Capacity, Soft, Medium, Hard Boiled, Poacher, Omelet Maker Egg Poacher With Auto Shut-Off, BPA Free",
+      "ratings": 2.05,
+      "price": "$29.99",
+      "image": "https://m.media-amazon.com/images/I/61q8o6fhwYL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DBHVR45W",
+      "name": "11 PCS Pots and Pans Set Non Stick Cookware Set Removable Handles White…",
+      "ratings": 131,
+      "price": "$99.99",
+      "image": "https://m.media-amazon.com/images/I/61irMxBQ-NL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B09DCYPQQL",
+      "name": "MSMK 10-Piece Pots and Pans Set non stick, Cookware Sets for building a starter kitchen or refreshing, Even Heating, Easy Clean-Up, Comfortable Handling, Induction Compatibility",
+      "ratings": 2.477,
+      "price": "$199.99",
+      "image": "https://m.media-amazon.com/images/I/71EosobYfsL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CTT8GS66",
+      "name": "Pots and Pans Set Non Stick - VONIKI Ceramic Cookware Set with Cooking Utensils Set, Non Toxic Kitchen Cookware Sets Dutch Oven Pot with Lid Saucepan Set Sauté Pan Frying Pan Set for Cooking Gifts",
+      "ratings": 192,
+      "price": "$139.99",
+      "image": "https://m.media-amazon.com/images/I/71p++u8n1YL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B09TZT2XPJ",
+      "name": "MSMK 9-Piece Pots Set Nonstick, Rice Cheese Burnt also Non stick, Evenly heated Smooth bottom, Scratch Resistant, Stay-Cool Stainless Steel Handle, Oven Safe to 700°F, Induction sauce pans set",
+      "ratings": 742,
+      "price": "$165.00",
+      "image": "https://m.media-amazon.com/images/I/71ckDoqm9FL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CHRT2V59",
+      "name": "AuFranc® Hybrid Nonstick Stainless Steel Pots and Pans Set, Induction Cookware Set with Tempered Glass Lids, Non-stick Pot and Pan Set Suitable for All Cooktops, Non-Toxic, Dishwasher & Oven Safe",
+      "ratings": 289,
+      "price": "$88.88",
+      "image": "https://m.media-amazon.com/images/I/71zYvsbXofL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DJQBGTPY",
+      "name": "Electric Pressure Cooker Uni 6qt, 9-in-1 Multi-Functional Slow Cooker, Rice Cooker, Yogurt Maker, Cake Maker, Sauté Pan, Steamer, Food Warmer, Soup Maker",
+      "ratings": 4,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/71po5a79PGL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DCVWYJ8G",
+      "name": "PYY Electric Pizza Oven with Visual Window - Countertop Indoor Pizza Ovens Pizza Cooker 1800W, Commercial Pizza Oven with Pizza Stone and Timer",
+      "ratings": 1,
+      "price": "$199.99",
+      "image": "https://m.media-amazon.com/images/I/41c-DEvNLlL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0074CDG6C",
+      "name": "Zojirushi NS-TSC10 5-1/2-Cup (Uncooked) Micom Rice Cooker and Warmer, 1.0-Liter",
+      "ratings": 12.951,
+      "price": "$175.00",
+      "image": "https://m.media-amazon.com/images/I/519ZkB1stgL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B097F4QKVY",
+      "name": "Crock-Pot 7-Quart Slow Cooker, Portable Programmable with Timer, Locking Lid, Stainless Steel; an Essential Kitchen Appliance, Perfect for Families and Gatherings",
+      "ratings": 3.069,
+      "price": "$86.63",
+      "image": "https://m.media-amazon.com/images/I/61T3OnQfLQL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0BFX95J5P",
+      "name": "COSORI Electric Pressure Cooker 6 qt, 9-in-1 Instant Multi Cooker with Safer Venting Design, Rice Cooker, Slow Cooker, Sous Vide, Saute Pot, 1100W, Stainless Steel",
+      "ratings": 2.827,
+      "price": "$76.47",
+      "image": "https://m.media-amazon.com/images/I/71q-GYnJW9L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0D4FDF2LL",
+      "name": "Nuwave Diamond Induction Cooktop, New & Improved Electric Burner with Probe, 91 Temps 50°F to 500°F, 6.5” Heating Coil, Shatter-Proof Ceramic Glass, 3 Wattage Settings, Ideal for Dorms, RVs & Apts",
+      "ratings": 53,
+      "price": "$99.99",
+      "image": "https://m.media-amazon.com/images/I/61dPphz+30L._AC_SX300_SY300_.jpg"
+    },
+    {
+      "id": "B0B2LB5Y35",
+      "name": "Monogatari Stainless Steel Sous Vide, Sous Vide Precision Cooker, 8 Quart Sous Vide Cooker with LED Touchscreen,Ultraquiet FastHeating Immersion Circulator Precise Cooker with Accurate Temperature",
+      "ratings": 35,
+      "price": "$136.00",
+      "image": "https://m.media-amazon.com/images/I/71fVH85B-LL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CH9QNKYC",
+      "name": "Commercial Rice Cooker Large Rice Cooker 50Cup(Cooked)/25Cup (Uncooked), 1850W 13L Rice Cooker for Restaurant Canteen Party Commercial Rice Warmer for 24H",
+      "ratings": 38,
+      "price": "$119.89",
+      "image": "https://m.media-amazon.com/images/I/61tnsAYvglL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B091TLKF2H",
+      "name": "TOSHIBA Rice Cooker Induction Heating, with Low Carb Rice Cooker Steamer 5.5 Cups Uncooked - Japanese Rice Cooker, 8 Cooking Functions, 24-Hr Timer and Auto Keep Warm, White",
+      "ratings": 709,
+      "price": "$179.99",
+      "image": "https://m.media-amazon.com/images/I/71pslVto0sL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0838SMXFZ",
+      "name": "Toshiba Rice Cooker 6 Cup Uncooked – Japanese Rice Cooker with Fuzzy Logic Technology, 7 Cooking Functions, Digital Display, 2 Delay Timers and Auto Keep Warm, Non-Stick Inner Pot, White",
+      "ratings": 2.913,
+      "price": "$139.99",
+      "image": "https://m.media-amazon.com/images/I/6148q7-98YL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B01EVHWNVG",
+      "name": "Zojirushi NS-LGC05XB Micom Rice Cooker & Warmer, 3-Cups (uncooked), Stainless Black",
+      "ratings": 7.305,
+      "price": "$135.99",
+      "image": "https://m.media-amazon.com/images/I/61dNySbeVWL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0987JNH24",
+      "name": "COMFEE' Compact Rice Cooker, 6-in-1 Stainless Steel Multi Cooker, Slow Cooker, Steamer, Saute, and Warmer, 2 QT, 8 Cups Cooked(4 Cups Uncooked), Brown Rice, Quinoa and Oatmeal, 6 One-Touch Programs",
+      "ratings": 14.324,
+      "price": "$33.98",
+      "image": "https://m.media-amazon.com/images/I/61Ahxjw0dvS.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C5HTS85W",
+      "name": "Elite Gourmet EGC115M Easy Egg Cooker Electric 7-Egg Capacity, Soft, Medium, Hard-Boiled Egg Cooker with Auto Shut-Off, Measuring Cup Included, BPA Free, Retro Mint",
+      "ratings": 5.146,
+      "price": "$11.99",
+      "image": "https://m.media-amazon.com/images/I/61PCEgXrOXL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0000BYCFU",
+      "name": "Presto 01781 Pressure Canner and Cooker, 23 qt, Silver",
+      "ratings": 19.23,
+      "price": "$111.87",
+      "image": "https://m.media-amazon.com/images/I/81Y29kSqfhL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0BD4PRBVZ",
+      "name": "COSORI Rice Cooker 10 Cup, 24h Keep Warm, 18 Functions Fuzzy Logic Rice Maker with Stainless Steel Steamer Basket, Sauté, Slow Cooker, Black",
+      "ratings": 2.008,
+      "price": "$84.99",
+      "image": "https://m.media-amazon.com/images/I/818LsQTlSsL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0D3C1TDYM",
+      "name": "TOPWIT Hot Pot Electric Pot for Cooking, Ramen Cooker 1.2L, Non-Stick Portable Noodles Cooker for Pasta, Soup, Steak, Oatmeal, College Dorm Room Essentials, Shabu Shabu Pot with Power Adjustment,Beige",
+      "ratings": 1,
+      "price": "$25.99",
+      "image": "https://m.media-amazon.com/images/I/71khxTQmRmL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B17F8VLX",
+      "name": "Goodful All-In-One Pot, Multilayer Nonstick, High Performance Cast Dutch Oven With Matching Lid, Roasting Rack And Turner, Made Without PFOA, Dishwasher Safe Cookware, 4.7-Quart, Graphite",
+      "ratings": 1.862,
+      "price": "$32.61",
+      "image": "https://m.media-amazon.com/images/I/71sBcSS4AqL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0BK12LRCM",
+      "name": "KitchenBoss WIFI Sous Vide Cooker: Ultra-Quiet Sous-vide Cooking Machine 1100 Watts Stainless Steel Immersion Circulator for Kitchen with TFT Preset Recipes, Black",
+      "ratings": 184,
+      "price": "$135.99",
+      "image": "https://m.media-amazon.com/images/I/81JbMGyfiXL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00007J5U7",
+      "name": "Zojirushi NS-ZCC10 5-1/2-Cup Neuro Fuzzy Rice Cooker and Warmer, Premium White",
+      "ratings": 11.52,
+      "price": "$199.99",
+      "image": "https://m.media-amazon.com/images/I/61x9NkiKkUS.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B004P2NG0K",
+      "name": "Crock-Pot 6 Quart Cook & Carry Programmable Slow Cooker with Digital Timer, Stainless Steel (CPSCVC60LL-S), pack of 1",
+      "ratings": 28.386,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/612vKUUn2FL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B07CK58RPN",
+      "name": "COMFEE' Rice Cooker, Japanese Large Rice Cooker with Fuzzy Logic Technology, 11 Presets, 10 Cup Uncooked/20 Cup Cooked, Auto Keep Warm, 24-Hr Delay Timer",
+      "ratings": 5.599,
+      "price": "$84.99",
+      "image": "https://m.media-amazon.com/images/I/61I6VzWgbOL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0752VWV65",
+      "name": "Hamilton Beach Digital Programmable Rice Cooker & Food Steamer, 8 Cups Cooked (4 Uncooked), With Steam & Rinse Basket, Stainless Steel (37518)",
+      "ratings": 15.202,
+      "price": "$31.99",
+      "image": "https://m.media-amazon.com/images/I/81DS0bClg0L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B016Y8JSC2",
+      "name": "BLACK+DECKER 16-Cup Rice Cooker, 8-Cup Uncooked Rice, Steaming Basket, Removable Non-Stick Bowl, One Touch, Keep Warm",
+      "ratings": 53.015,
+      "price": "$23.99",
+      "image": "https://m.media-amazon.com/images/I/41qJ8qzFstL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B091TW6ND5",
+      "name": "Toshiba Mini Rice Cooker, 3 Cups Uncooked Small Rice Cooker, Steamer & Warmer, With Fuzzy Logic And One-Touch Cooking, 24 Hour Delay Timer And Auto Keep Warm Feature, White",
+      "ratings": 2.408,
+      "price": "$79.98",
+      "image": "https://m.media-amazon.com/images/I/716F7iFbE7L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0055FSN3Q",
+      "name": "Aroma Housewares 6-Cup (Cooked) (3-Cup Uncooked) Pot Style Rice Cooker and Food Steamer (ARC-743-1NG), White",
+      "ratings": 42.201,
+      "price": "$19.79",
+      "image": "https://m.media-amazon.com/images/I/7196jvxGfeL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0BK2CP4CB",
+      "name": "Instant Pot 20-Cup Rice Cooker, Rice and Grain Multi-Cooker with Carb Reducing Technology without Compromising Taste or Texture, From the Makers of Instant Pot, Includes 8 Cooking Presets",
+      "ratings": 569,
+      "price": "$81.91",
+      "image": "https://m.media-amazon.com/images/I/71L7FsgwG3L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0D8S6B1WX",
+      "name": "Hot Pot Electric 6.5 Quart | 8-in-1 Multi-Cooker with Safe Nonstick Coating, Three Level Power | Timer, up to 60 Minutes",
+      "ratings": 8,
+      "price": "$98.00",
+      "image": "https://m.media-amazon.com/images/I/71qFzhG9eBL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C8J2737F",
+      "name": "Rapid Egg Cooker Electric 6 Eggs Capacity, Soft, Medium, Hard Boiled, Poacher, Omelet Maker Egg Poacher With Auto Shut-Off, BPA Free",
+      "ratings": 2.05,
+      "price": "$29.99",
+      "image": "https://m.media-amazon.com/images/I/61q8o6fhwYL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C4R374QG",
+      "name": "CRE-D0401W | Rice Cooker 4 Cup (Uncooked) and Warmer | Detachable Clean Cover | Nonstick Inner Pot | White [CUCHEN]",
+      "ratings": 21,
+      "price": "$62.99",
+      "image": "https://m.media-amazon.com/images/I/51nJ6qg-3XL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B5B3QBV1",
+      "name": "CUCKOO CR-0675FG 6-Cup (Uncooked) / 12-Cup (Cooked) Micom Rice Cooker with Nonstick Inner Pot, 13 Menu Modes, LCD Display, Fuzzy Logic Tech, Auto Clean (Gray)",
+      "ratings": 2.971,
+      "price": "$74.99",
+      "image": "https://m.media-amazon.com/images/I/61Fgxx+vRPL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B00006ISG6",
+      "name": "Presto 01362 6-Quart Stainless Steel Pressure Cooker",
+      "ratings": 14.289,
+      "price": "$67.54",
+      "image": "https://m.media-amazon.com/images/I/61pbm+bqKzL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B0CLTKCK3D",
+      "name": "Our Place Dream Cooker | 6-quart Multicooker | 4 Versatile Modes | Pressure Cook, Slow Cook, Sear & Saute, Keep Warm | Hands-Free Steam Release | Tailored Control Panel | Steam",
+      "ratings": 131,
+      "price": "$199.00",
+      "image": "https://m.media-amazon.com/images/I/51RN0faFnAL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B007TNXYYA",
+      "name": "AROMA® 6-Cup(cooked) / 1.3Qt. Select Stainless™ Rice Cooker, Stainless Steel Inner Pot (ARC-753SG)",
+      "ratings": 15.381,
+      "price": "$30.59",
+      "image": "https://m.media-amazon.com/images/I/61eSyjE3CsL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08DKYBTPH",
+      "name": "Chefman TurboFry® Touch Air Fryer, XL 8-Qt Family Size, One-Touch Digital Control Presets, French Fries, Chicken, Meat, Fish, Nonstick Dishwasher-Safe Parts, Automatic Shutoff, Stainless Steel",
+      "ratings": 13.39,
+      "price": "$84.98",
+      "image": "https://m.media-amazon.com/images/I/71pnG-oB2zL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CWL8NFXQ",
+      "name": "Electric Hot Pot:1.5 L Ramen Cooker, Dual Power Mini Portable Multi-Functional Lazy Pot for Pasta, Noodles, Egg, Soup, Non-Stick Noodle Cooker with Boil Dry Protection for Dorm, Office (Grey)",
+      "ratings": 143,
+      "price": "$26.99",
+      "image": "https://m.media-amazon.com/images/I/71OUJmNga4L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00DDXWFY0",
+      "name": "DASH Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - Black",
+      "ratings": 125.398,
+      "price": "$18.99",
+      "image": "https://m.media-amazon.com/images/I/61pF6D-ulVL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00004S575",
+      "name": "Zojirushi 3 Cup Rice Cooker/Steamer ( White)",
+      "ratings": 11.394,
+      "price": "$49.99",
+      "image": "https://m.media-amazon.com/images/I/51xGcS8AtwS.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B004P2LEE0",
+      "name": "Crockpot® 2-Quart Classic Slow Cooker, Small Slow Cooker, Black",
+      "ratings": 10.161,
+      "price": "$12.99",
+      "image": "https://m.media-amazon.com/images/I/81N5Jv5TDqL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08WJHF1NZ",
+      "name": "Chefman 6-Quart Slow Cooker, Electric Countertop Cooking, Stovetop & Oven-Safe Removable Insert for Browning & Sautéing, Family-Size Soups & Stews, Nonstick & Dishwasher-Safe Interior,Stainless Steel",
+      "ratings": 232,
+      "price": "$42.99",
+      "image": "https://m.media-amazon.com/images/I/51d0ubASG8L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DJQBGTPY",
+      "name": "Electric Pressure Cooker Uni 6qt, 9-in-1 Multi-Functional Slow Cooker, Rice Cooker, Yogurt Maker, Cake Maker, Sauté Pan, Steamer, Food Warmer, Soup Maker",
+      "ratings": 4,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/71po5a79PGL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B09ZHW6FKV",
+      "name": "Drizzle Electric Hot Pot Cooker Steamer 1.8L Multifunctional Nonstick Pan Dormitory Office Portable Ramen Cooker Steamer Boil Dry Protection Suitable For Noodles Steak Cooker Eggs StirFrying",
+      "ratings": 251,
+      "price": "$31.98",
+      "image": "https://m.media-amazon.com/images/I/71oafSJqSRL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CYNVF15J",
+      "name": "CUCKOO CR-1095 10-Cup (Uncooked) / 20-Cup (Cooked) Basic Rice Cooker and Warmer with Nonstick Inner Pot, Switch Press (White)",
+      "ratings": 45,
+      "price": "$74.00",
+      "image": "https://m.media-amazon.com/images/I/61Q+PAPyr4L._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B00K0JY7XW",
+      "name": "T-fal Clipso Stainless Steel Pressure Cooker 6.3 Quart, Induction , Secure locking System, One Hand System, Recipe Book Included, Cookware, Pots and Pans, Kitchen, Dishwasher Safe, Silver",
+      "ratings": 14.29,
+      "price": "$83.99",
+      "image": "https://m.media-amazon.com/images/I/71-H4ye9R8L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CM6BWM97",
+      "name": "Hot Pot Electric with Steamer, Rapid Noodles Cooker,Non-Stick Electric Pot for Raman, Soup, Noodles, Steak, Oatmeal, Rapid, with Temperature control, (Rotary switch), 1.8L,Beige",
+      "ratings": 91,
+      "price": "$18.54",
+      "image": "https://m.media-amazon.com/images/I/61D66grjeaL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B8F38J2B",
+      "name": "GreenPan Elite 8 - in -1 Programmable 6QT Electric Slow Cooker, Dishwasher Safe Lid & Removable Crock, PFAS-Free Healthy Ceramic Nonstick Multi-Cooker, Sear, Sauté/Brown, Steam Basket, Roast, White",
+      "ratings": 387,
+      "price": "$195.93",
+      "image": "https://m.media-amazon.com/images/I/616seTV8cZL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CP8KDM8R",
+      "name": "AROMA® Digital Rice Cooker, 4-Cup (Uncooked) / 8-Cup (Cooked), Steamer, Multicooker, Slow Cooker, Oatmeal Cooker, Auto Keep Warm, 2 Qt, Stainless Steel Exterior",
+      "ratings": 3.385,
+      "price": "$39.99",
+      "image": "https://m.media-amazon.com/images/I/71d1CcxP7DL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DGRR7XKK",
+      "name": "Electric Pot for Cooking, 10” Electric Cooker, Nonstick Electric Skillet with Lid and Steamer, Ceramic Hot Pot Electric Frying Pan for Dorm Rooms, Camping, RVs, Work, As Seen on TV Products",
+      "ratings": 45,
+      "price": "$39.96",
+      "image": "https://m.media-amazon.com/images/I/810tth-IN6L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DC1T1F36",
+      "name": "STIRMAX PLUS 7.5 Quart Digital Multi-Cooker with Automatic Paddle to Stir and Shred, 9 in 1 programmable presets to Sauté, Sear, and Brown Food Before Simmering – Accessories & Cookbook Included",
+      "ratings": 89,
+      "price": "$129.99",
+      "image": "https://m.media-amazon.com/images/I/81zWVE+dVlL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B01MQWFGKG",
+      "name": "Cuckoo Micom Rice Cooker & Warmer, 6 cups, LCD-Display 11-Menu Options, Turbo, Mixed, and Brown/GABA, Porridge, Steam MultiCook, My Mode, 16-Various Cooking Methods, Red/White",
+      "ratings": 3.097,
+      "price": "$65.99",
+      "image": "https://m.media-amazon.com/images/I/6100gTEho4L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B1258YY3",
+      "name": "HexClad Hybrid Nonstick 10-Quart Stockpot with Tempered Glass Lid, Dishwasher Safe, Induction Ready, Compatible with All Cooktops",
+      "ratings": 446,
+      "price": "$199.00",
+      "image": "https://m.media-amazon.com/images/I/71VCnYrQwOL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C35HNPW9",
+      "name": "Instant Pot RIO Wide Base, 7.5 Quarts, Large Searing Base, WhisperQuiet Steam Release, 7-in-1 Electric Multi-Cooker, Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt & Warmer",
+      "ratings": 334,
+      "price": "$115.00",
+      "image": "https://m.media-amazon.com/images/I/61YYTJYkWNL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C4R374QG",
+      "name": "CRE-D0401W | Rice Cooker 4 Cup (Uncooked) and Warmer | Detachable Clean Cover | Nonstick Inner Pot | White [CUCHEN]",
+      "ratings": 21,
+      "price": "$62.99",
+      "image": "https://m.media-amazon.com/images/I/51nJ6qg-3XL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DJQBGTPY",
+      "name": "Electric Pressure Cooker Uni 6qt, 9-in-1 Multi-Functional Slow Cooker, Rice Cooker, Yogurt Maker, Cake Maker, Sauté Pan, Steamer, Food Warmer, Soup Maker",
+      "ratings": 4,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/71po5a79PGL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B008GS8R3K",
+      "name": "Elite Gourmet MST-250XS Electric Slow Cooker Ceramic Pot, Adjustable Temp, Entrees, Sauces, Stews & Dips, Dishwasher Safe Glass Lid & Crock, 1.5 Quart, Stainless Steel",
+      "ratings": 23.856,
+      "price": "$14.99",
+      "image": "https://m.media-amazon.com/images/I/71ahU8+wfRL._AC_SX300_SY300_.jpg"
+    },
+    {
+      "id": "B003UCG8II",
+      "name": "Crockpot Manual 3-Quart Slow Cooker, Silver",
+      "ratings": 12.895,
+      "price": "$29.99",
+      "image": "https://m.media-amazon.com/images/I/81WYEl4XjSL.__AC_SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DJFJFSZ5",
+      "name": "COMFEE’ 9-in-1 Electric Pressure Cooker, 14 Presets Instant Multi Cooker Olla de Presion Non-Stick Pot Yogurt Maker Rice Cooker Slow Cooker Sauté Steamer 6 Quarts Black",
+      "ratings": 18,
+      "price": "$64.79",
+      "image": "https://m.media-amazon.com/images/I/71PsZtsmzPL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CH9QNKYC",
+      "name": "Commercial Rice Cooker Large Rice Cooker 50Cup(Cooked)/25Cup (Uncooked), 1850W 13L Rice Cooker for Restaurant Canteen Party Commercial Rice Warmer for 24H",
+      "ratings": 38,
+      "price": "$119.89",
+      "image": "https://m.media-amazon.com/images/I/61tnsAYvglL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B09CD9M79Y",
+      "name": "Fissler Vitavit Premium Pressure Cooker with Steamer Insert, 2.6 Quart",
+      "ratings": 512,
+      "price": "$279.95",
+      "image": "https://m.media-amazon.com/images/I/61aYNS3n8VL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CLWWRK4J",
+      "name": "CRH-TWK0640WUS | Induction Heating Dual Pressure Rice Cooker 6 Cup (Uncooked) | Non-stick Coating | Stainless Cover | High/Non-Pressure | Easy Open Handle | Auto Steam Clean | Made in Korea",
+      "ratings": 32,
+      "price": "$244.99",
+      "image": "https://m.media-amazon.com/images/I/611RftUFoHL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B2LB5Y35",
+      "name": "Monogatari Stainless Steel Sous Vide, Sous Vide Precision Cooker, 8 Quart Sous Vide Cooker with LED Touchscreen,Ultraquiet FastHeating Immersion Circulator Precise Cooker with Accurate Temperature",
+      "ratings": 35,
+      "price": "$136.00",
+      "image": "https://m.media-amazon.com/images/I/71fVH85B-LL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B091TLKF2H",
+      "name": "TOSHIBA Rice Cooker Induction Heating, with Low Carb Rice Cooker Steamer 5.5 Cups Uncooked - Japanese Rice Cooker, 8 Cooking Functions, 24-Hr Timer and Auto Keep Warm, White",
+      "ratings": 709,
+      "price": "$179.99",
+      "image": "https://m.media-amazon.com/images/I/71pslVto0sL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08YP4NHQM",
+      "name": "Ninja Foodi Air Fryer Pressure Cooker Combo 11-in-1 Pro 6.5 qt. Pressure Cooker & Air Fryer that Steams, Slow Cooks and More with 4.6 qt Crisper Plate, Broil Rack & Recipe Book, FD302, Silver/Black",
+      "ratings": 3.847,
+      "price": "$149.99",
+      "image": "https://m.media-amazon.com/images/I/71uVj+gxeDL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B0979TYRYN",
+      "name": "Aroma Housewares 4-Cups (Cooked) / 1Qt. Rice & Grain Cooker (ARC-302NG), White",
+      "ratings": 10.853,
+      "price": "$21",
+      "image": "https://m.media-amazon.com/images/I/61tOsMC1oKL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DF7M2JCW",
+      "name": "9-in-1 Electric Pressure Cooker 6 Qt, Programmable Multi-Function Cooker with Safer Venting Design, Rice Cooker, Slow Cooker, Steamer, Sauté, Warmer & Sterilizer, 1000W, Stainless Steel",
+      "ratings": 17,
+      "price": "$109.99",
+      "image": "https://m.media-amazon.com/images/I/71CetRWt8FL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B09MZTSSR2",
+      "name": "Instant Pot Duo Plus, 8-Quart Whisper Quiet 9-in-1 Electric Pressure Cooker, Slow Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, App With Over 800 Recipes, Stainless Steel",
+      "ratings": 1.269,
+      "price": "$149.95",
+      "image": "https://m.media-amazon.com/images/I/61-u0Ey+uaL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B01BUL7FJ6",
+      "name": "Aroma Housewares ARC-363-1NGB 3 Uncooked/6 Cups Cooked Rice Cooker, Steamer, Multicooker, 2-6 cups, Black",
+      "ratings": 16.305,
+      "price": "$19.99",
+      "image": "https://m.media-amazon.com/images/I/71GTw5AsY+L._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B0DCVWYJ8G",
+      "name": "PYY Electric Pizza Oven with Visual Window - Countertop Indoor Pizza Ovens Pizza Cooker 1800W, Commercial Pizza Oven with Pizza Stone and Timer",
+      "ratings": 1,
+      "price": "$199.99",
+      "image": "https://m.media-amazon.com/images/I/41c-DEvNLlL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0C38QGZDV",
+      "name": "ChefAid Slow Cooker Liners, 100% Silicone Reusable Crock Pot Insert Accessories for 6-8 Oval or Round Quart Slow Cookers, Food Safe & Dishwasher Safe (Black-Grey)",
+      "ratings": 554,
+      "price": "$18.95",
+      "image": "https://m.media-amazon.com/images/I/51gbhq7CgkL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B07YKYLZ4Y",
+      "name": "Hamilton Beach 6-Quart Slow Cooker with 3 Cooking Settings, Dishwasher-Safe Stoneware Crock & Glass Lid, Silver (33665G)",
+      "ratings": 2.073,
+      "price": "$34.99",
+      "image": "https://m.media-amazon.com/images/I/710VPeEQWhL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B4FL87GR",
+      "name": "USC-35-OP001BK 3.5 Quart Slow Cooker,Aluminium Sear/Sauté Stew Pot Stovetop safe,Dishwasher Safe,Glass Lid,Adjustable Temp,Food Warmer,Black",
+      "ratings": 861,
+      "price": "$49.99",
+      "image": "https://m.media-amazon.com/images/I/51prMxY8NUL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08DCJTRH1",
+      "name": "Barton 6Qt Pressure Canner w/Release Valve Aluminum Canning Cooker Pot Stove Top Instant Fast Cooking",
+      "ratings": 2.395,
+      "price": "$35.95",
+      "image": "https://m.media-amazon.com/images/I/51OOo1Ry3ZL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CKKD1GXW",
+      "name": "Nuwave Duet Electric Pressure Cooker & Air Fryer Combo, 450 IN 1 Slow Cooker & Grill with Integrated Digital Temp Probe, 6qt SS Pot, Adjustable High/Low Pressure, Built-in Sure-Lock Safety Tech",
+      "ratings": 96,
+      "price": "$189.99",
+      "image": "https://m.media-amazon.com/images/I/71S4o9vR1FL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0BQ9F56WV",
+      "name": "Anova Culinary Sous Vide Precision Cooker 3.0 (WiFi), 1100 Watts",
+      "ratings": 465,
+      "price": "$119.00",
+      "image": "https://m.media-amazon.com/images/I/61ufN4G1TeL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0055FSN0Y",
+      "name": "Aroma Housewares 20 Cup Cooked (10 cup uncooked) Digital Rice Cooker, Slow Cooker, Food Steamer, SS Exterior (ARC-150SB),Black",
+      "ratings": 24.911,
+      "price": "$39.96",
+      "image": "https://m.media-amazon.com/images/I/71gSLKXMcSL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B44XTV71",
+      "name": "CUCKOO CRP-ST0609FW 6-Cup (Uncooked) / 12-Cup (Cooked) Twin Pressure Rice Cooker & Warmer with Nonstick Inner Pot, 16 Menu Options, 3 Voice Guide, Auto Clean (White)",
+      "ratings": 218,
+      "price": "$246.99",
+      "image": "https://m.media-amazon.com/images/I/61GtBOZvlXL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B07NSX6F23",
+      "name": "Hawkins Stainless Steel Pressure Cooker, 1.5 Liter, Silver",
+      "ratings": 2.179,
+      "price": "$42.60",
+      "image": "https://m.media-amazon.com/images/I/61c8fmWN8BL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00U1XN4L8",
+      "name": "CUCKOO CR-3032 30-Cup (Uncooked) / 60-Cup (Cooked) Large Capacity Commercial Rice Cooker & Warmer with Nonstick Inner Pot, Switch Press (Silver/Black)",
+      "ratings": 255,
+      "price": "$215.13",
+      "image": "https://m.media-amazon.com/images/I/61uySV3YGWL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0DJQBGTPY",
+      "name": "Electric Pressure Cooker Uni 6qt, 9-in-1 Multi-Functional Slow Cooker, Rice Cooker, Yogurt Maker, Cake Maker, Sauté Pan, Steamer, Food Warmer, Soup Maker",
+      "ratings": 4,
+      "price": "$69.99",
+      "image": "https://m.media-amazon.com/images/I/71po5a79PGL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0CX1GT3P9",
+      "name": "CUSIMAX Induction Cooktop,1800W Portable Induction Burner with Sensor Touch,Kids Safety Lock,10 Temperature and 9 Power Setting induction hot plate with Timer",
+      "ratings": 53,
+      "price": "$69.90",
+      "image": "https://m.media-amazon.com/images/I/61livnok2QL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0745J76FG",
+      "name": "Hamilton Beach Programmable Slow Cooker with Flexible Easy Programming, 5 Cooking Times, Dishwasher-Safe Crock, Lid, 4 Quart, Silver",
+      "ratings": 10.189,
+      "price": "$46.99",
+      "image": "https://m.media-amazon.com/images/I/71Ap3f0POxL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B01BZ93TIY",
+      "name": "Hawkins CXT50 Contura Hard Anodized Induction Compatible Extra Thick Base Pressure Cooker, Black, 5L, 5 L",
+      "ratings": 7.083,
+      "price": "$59.90",
+      "image": "https://m.media-amazon.com/images/I/51X0fn3Y5XL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B06Y1YD5W7",
+      "name": "Instant Pot Duo 7-in-1 Mini Electric Pressure Cooker, Slow Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes Free App with over 1900 Recipes, Stainless Steel, 3 Quart",
+      "ratings": 25.082,
+      "price": "$79.95",
+      "image": "https://m.media-amazon.com/images/I/71LmN7FsaZL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B0B4MYBLZQ",
+      "name": "CUCKOO CR-0375FW 3 Cup (Uncooked) / 6 Cup (Cooked) Micom Rice Cooker & Warmer with Nonstick Inner Pot, 10 Menu Modes, LCD Display, Fuzzy Logic Tech, Auto Clean (White)",
+      "ratings": 2.971,
+      "price": "$78.29",
+      "image": "https://m.media-amazon.com/images/I/61hd1Hs4-2L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B01MQWFGKG",
+      "name": "Cuckoo Micom Rice Cooker & Warmer, 6 cups, LCD-Display 11-Menu Options, Turbo, Mixed, and Brown/GABA, Porridge, Steam MultiCook, My Mode, 16-Various Cooking Methods, Red/White",
+      "ratings": 3.097,
+      "price": "$65.99",
+      "image": "https://m.media-amazon.com/images/I/6100gTEho4L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B08DL8WH9V",
+      "name": "CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie, Dehydrator, Convection Oven, 17 Touch Screen Presets Fry, Roast, Dehydrate, Bake, XL 10L Family Size, Auto Shutoff, Large Easy-View Window, Black",
+      "ratings": 40.66,
+      "price": "$84.99",
+      "image": "https://m.media-amazon.com/images/I/711yiK2g06L.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00FLYWNYQ",
+      "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+      "ratings": 100.878,
+      "price": "$99.95",
+      "image": "https://m.media-amazon.com/images/I/71+xvMkS3hL._AC_SY300_SX300_.jpg"
+    },
+    {
+      "id": "B091TLKF2H",
+      "name": "TOSHIBA Rice Cooker Induction Heating, with Low Carb Rice Cooker Steamer 5.5 Cups Uncooked - Japanese Rice Cooker, 8 Cooking Functions, 24-Hr Timer and Auto Keep Warm, White",
+      "ratings": 709,
+      "price": "$179.99",
+      "image": "https://m.media-amazon.com/images/I/71pslVto0sL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B00U1XN4L8",
+      "name": "CUCKOO CR-3032 30-Cup (Uncooked) / 60-Cup (Cooked) Large Capacity Commercial Rice Cooker & Warmer with Nonstick Inner Pot, Switch Press (Silver/Black)",
+      "ratings": 255,
+      "price": "$215.13",
+      "image": "https://m.media-amazon.com/images/I/61uySV3YGWL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "B01NBKTPTS",
+      "name": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel, 6 Quart",
+      "ratings": 41.26,
+      "price": "$129.95",
+      "image": "https://m.media-amazon.com/images/I/61DJCWU5ksL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
