@@ -7,7 +7,7 @@
   "author": "Fuderr",
   "license": "MIT",
   "scripts": {
-    "dev": "node amazon_crawling.js"
+    "dev": "node amazon_crawling_V2.js"
   },
   "dependencies": {
     "axios": "^1.7.7",

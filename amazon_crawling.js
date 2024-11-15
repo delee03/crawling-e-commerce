@@ -302,8 +302,8 @@ const fetchProductsForCategory = async (category, baseSearchUrl) => {
 
 // Define categories with their respective search URLs
 const categories = {
-  smartlock:
-    "https://www.amazon.com/s?k=smartlock&crid=VHQ2BS19L3MB&sprefix=smartl%2Caps%2C600&ref=nb_sb_noss_2",
+  homeaudio:
+    "https://www.amazon.com/s?k=home+audio&rh=n%3A667846011&ref=nb_sb_noss",
 };
 
 // Main function to fetch products for multiple categories
