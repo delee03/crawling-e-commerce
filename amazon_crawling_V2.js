@@ -15,7 +15,7 @@ virtualConsole.on("jsdomError", (error) => {
     typeof error === "string" &&
     error.includes("Could not parse CSS stylesheet")
   ) {
-    console.clear(); // Clear terminal khi lỗi CSS xuất hiện
+    console.clear(); // Clear terminal whenever CSS errors appear
   } else {
     console.error(error);
   }
@@ -28,7 +28,7 @@ const rotateUserAgent = () => {
   return new UserAgent({ deviceCategory: "desktop" }).toString();
 };
 
-// Hàm tải danh mục từ file
+// Function load categories from file .txt
 const loadCategoriesFromFile = (filePath) => {
   const categories = {};
   const fileData = fs.readFileSync(filePath, "utf-8");
@@ -43,7 +43,7 @@ const loadCategoriesFromFile = (filePath) => {
   return categories;
 };
 
-// Khởi tạo thanh tiến trình
+// Progress bar
 const progressBar = new cliProgress.SingleBar(
   {
     format:
@@ -55,7 +55,7 @@ const progressBar = new cliProgress.SingleBar(
   cliProgress.Presets.shades_classic
 );
 
-// Hàm lấy ASIN từ trang tìm kiếm
+// Function to extract ASINs from a search page
 const getASINsFromSearchPage = async (searchUrl, retryCount = 3) => {
   try {
     const { data } = await axios.get(searchUrl, {
@@ -86,7 +86,7 @@ const getASINsFromSearchPage = async (searchUrl, retryCount = 3) => {
   }
 };
 
-// Hàm lấy dữ liệu sản phẩm từ ASIN
+// Fuction get product from ASIN
 const getProduct = async (productId, retryCount = 3) => {
   try {
     let url = `https://www.amazon.com/dp/${productId}`;
@@ -216,7 +216,7 @@ const getProduct = async (productId, retryCount = 3) => {
   }
 };
 
-// Lưu danh sách sản phẩm vào file
+// Function to save the product list to a file
 const saveProductListToFile = (category) => {
   const filePath = path.join(process.cwd(), `/data/${category}_products.json`);
 
@@ -233,7 +233,7 @@ const saveProductListToFile = (category) => {
   }
 };
 
-// Lấy sản phẩm theo từng danh mục từ URL tìm kiếm
+// Function to fetch products in batches for a specific category
 const fetchProductsForCategory = async (category, baseSearchUrl) => {
   listProduct = [];
 
@@ -278,21 +278,20 @@ const fetchProductsForCategory = async (category, baseSearchUrl) => {
   console.log(`Hoàn tất việc lấy sản phẩm cho danh mục: ${category}`);
 };
 
-// Đường dẫn tới file categories.txt
+// Path to file categories.txt
 const filePath = path.join(process.cwd(), "categories.txt");
 const categories = loadCategoriesFromFile(filePath);
 
-// Bắt đầu lấy dữ liệu cho từng danh mục
+// Fetch all categories and save them to files
 const fetchAllCategories = async (categories) => {
   for (const [category, searchUrl] of Object.entries(categories)) {
-    console.log(`Bắt đầu lấy sản phẩm cho danh mục: ${category}`);
+    console.log(`Begin fetching: ${category}`);
     await fetchProductsForCategory(category, searchUrl);
-    console.log(`Hoàn tất lấy sản phẩm cho danh mục: ${category}`);
-    await delay(10000); // Tạm dừng 3 giây giữa các danh mục
+    console.log(`Finish fetching category: ${category}`);
+    await delay(10000); // Pause for 10s between categories to avoid Amazon detection
   }
 };
 
-// Bắt đầu chương trình
 fetchAllCategories(categories).then(() => {
-  console.log("Tất cả danh mục đã được lấy và lưu lại.");
+  console.log("All categories've been fetched and saved into file");
 });
