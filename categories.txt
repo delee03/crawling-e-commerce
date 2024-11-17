@@ -1,7 +1,4 @@
-wirelessmouse https://www.amazon.com/s?k=wireless+mousse&crid=HG0F3BT1FZEL&sprefix=wireless+mous%2Caps%2C436&ref=nb_sb_noss_2
-musicalinstruments https://www.amazon.com/s?k=musical+instruments&ref=nb_sb_noss
-books https://www.amazon.com/s?k=books&ref=nb_sb_noss
-homeimprovement https://www.amazon.com/s?k=home+improvement&ref=nb_sb_noss
+books https://www.amazon.com/s?k=book&i=stripbooks-intl-ship&crid=2QP8JKB8KBWPC&sprefix=bô+%2Cstripbooks-intl-ship%2C366&ref=nb_sb_noss_2
 smart-home https://www.amazon.com/s?k=smart+home&ref=nb_sb_noss
 wirelesskeyboard https://www.amazon.com/s?k=wireless+keyboard&crid=1TMFP8WUW8JVG&sprefix=wireless+keyboard%2Caps%2C327&ref=nb_sb_noss_1
 wirelessheadphone https://www.amazon.com/s?k=wireless+headphones&crid=YIHH6D1PP8B9&sprefix=wireless+%2Caps%2C344&ref=nb_sb_ss_ts-doa-p_7_9

@@ -200,6 +200,7 @@ const getProduct = async (productId, retryCount = 3) => {
       },
     };
 
+    // Only add product to list if that product exists (Avoid "trash" records)
     if (object.name !== "Unknown Product") {
       listProduct.push(object);
     }
@@ -247,11 +248,11 @@ const fetchProductsForCategory = async (category, baseSearchUrl) => {
     const asinList = await getASINsFromSearchPage(pageUrl);
 
     if (asinList.length === 0) {
-      console.log(`Không tìm thấy sản phẩm nào trên trang ${pageNum}.`);
+      console.log(`Cannot find more product on page ${pageNum}.`);
       morePages = false;
     } else {
       console.log(
-        `Tìm thấy ${asinList.length} ASINs trên trang ${pageNum} cho danh mục: ${category}`
+        `Found ${asinList.length} ASINs on page ${pageNum} for category: ${category}`
       );
       progressBar.start(asinList.length, 0);
 
@@ -275,7 +276,7 @@ const fetchProductsForCategory = async (category, baseSearchUrl) => {
     }
   }
 
-  console.log(`Hoàn tất việc lấy sản phẩm cho danh mục: ${category}`);
+  console.log(`Finish fetching category: ${category}`);
 };
 
 // Path to file categories.txt
