@@ -1,10 +1,3 @@
-menjacket https://www.amazon.com/s?k=men+jacket&crid=3S5R2FPQN8MQ7&sprefix=mejacket%2Caps%2C376&ref=nb_sb_noss_1
-toys https://www.amazon.com/s?k=toys&ref=nb_sb_noss
-fashion https://www.amazon.com/s?k=fashion&ref=nb_sb_noss
-beauty https://www.amazon.com/s?k=beauty&ref=nb_sb_noss
-health https://www.amazon.com/s?k=health&ref=nb_sb_noss
-sports https://www.amazon.com/s?k=sports+equipment&ref=nb_sb_noss
-automotive https://www.amazon.com/s?k=automotive&ref=nb_sb_noss
 grocery https://www.amazon.com/s?k=grocery&ref=nb_sb_noss
 pets https://www.amazon.com/s?k=pets&ref=nb_sb_noss
 furniture https://www.amazon.com/s?k=furniture&ref=nb_sb_noss
@@ -13,7 +6,6 @@ appliances https://www.amazon.com/s?k=appliances&ref=nb_sb_noss
 shoes https://www.amazon.com/s?k=shoes&ref=nb_sb_noss
 jewelry https://www.amazon.com/s?k=jewelry&ref=nb_sb_noss
 tools https://www.amazon.com/s?k=tools&ref=nb_sb_noss
-office https://www.amazon.com/s?k=office+supplies&ref=nb_sb_noss
 outdoor https://www.amazon.com/s?k=outdoor+gear&ref=nb_sb_noss
 music https://www.amazon.com/s?k=music+instruments&ref=nb_sb_noss
 watches https://www.amazon.com/s?k=watches&ref=nb_sb_noss
